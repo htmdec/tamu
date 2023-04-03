@@ -1,0 +1,23 @@
+ 'vam-processing-details-v1.json'
+
+"data": {
+        "Forging": {},
+        "Homogenization": {},
+        'Sample ID:
+}
+
+
+'vam-synthesis-details-v1.json'
+
+"data": {
+        "Arc Melting": {},
+        "Material Preparation" : {},
+        "Sample ID": {}
+}
+
+'vam-traveler-v1.json'
+"data": {
+        "Material Composition" : {},
+        'Tasks":{},
+        "Sample ID": {},
+}
