@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "AAA01 Alloy (homogenized)",
+   "notes": null,
+   "process": {
+      "id": "847d9ce3-cd0a-4d36-b3c9-2063d6e9b9a5",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [
+      "AAA01",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "fb980734-29fa-4979-97eb-77714f36abff",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "4560ffa0-61ee-4c15-a8f3-aa68335a84bd"
+   }
+}

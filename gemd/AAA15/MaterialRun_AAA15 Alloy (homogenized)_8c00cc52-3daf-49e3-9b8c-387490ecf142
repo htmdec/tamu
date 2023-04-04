@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "AAA15 Alloy (homogenized)",
+   "notes": null,
+   "process": {
+      "id": "9b1dace6-4708-43a1-a457-edbe975c93f9",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "unknown",
+   "spec": {
+      "id": "506c17ea-3851-4bf7-91dd-9eb75ce68942",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "8c00cc52-3daf-49e3-9b8c-387490ecf142"
+   }
+}

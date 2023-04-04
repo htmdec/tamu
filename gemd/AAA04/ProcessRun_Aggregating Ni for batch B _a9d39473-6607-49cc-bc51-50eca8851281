@@ -1,0 +1,18 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Aggregating Ni for batch B ",
+   "notes": null,
+   "parameters": [],
+   "source": null,
+   "spec": {
+      "id": "72f45ebe-ef44-4c3f-98b1-46854983bb13",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "process_run",
+   "uids": {
+      "auto": "a9d39473-6607-49cc-bc51-50eca8851281"
+   }
+}

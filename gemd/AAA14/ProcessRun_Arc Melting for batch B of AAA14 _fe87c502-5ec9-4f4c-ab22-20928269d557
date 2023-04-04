@@ -1,0 +1,18 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Arc Melting for batch B of AAA14 ",
+   "notes": null,
+   "parameters": [],
+   "source": null,
+   "spec": {
+      "id": "4ff47d63-2dd7-425f-83d8-97715e7df2b7",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "process_run",
+   "uids": {
+      "auto": "fe87c502-5ec9-4f4c-ab22-20928269d557"
+   }
+}

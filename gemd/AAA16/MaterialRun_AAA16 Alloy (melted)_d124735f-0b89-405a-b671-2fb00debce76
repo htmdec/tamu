@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "AAA16 Alloy (melted)",
+   "notes": null,
+   "process": {
+      "id": "067e4425-3083-4300-a7d2-199578fedea2",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "unknown",
+   "spec": {
+      "id": "ffbbeeff-9711-4e7e-99ef-74d07a23aa2d",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "d124735f-0b89-405a-b671-2fb00debce76"
+   }
+}

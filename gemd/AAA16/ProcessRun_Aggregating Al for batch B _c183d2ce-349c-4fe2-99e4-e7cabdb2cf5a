@@ -1,0 +1,18 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Aggregating Al for batch B ",
+   "notes": null,
+   "parameters": [],
+   "source": null,
+   "spec": {
+      "id": "65f3dc14-cd31-48d5-8a92-81e35774d2e5",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "process_run",
+   "uids": {
+      "auto": "c183d2ce-349c-4fe2-99e4-e7cabdb2cf5a"
+   }
+}

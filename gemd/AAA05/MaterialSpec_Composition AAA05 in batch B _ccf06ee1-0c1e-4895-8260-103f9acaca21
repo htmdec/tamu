@@ -1,0 +1,152 @@
+{
+   "file_links": [],
+   "name": "Composition AAA05 in batch B ",
+   "notes": null,
+   "process": {
+      "id": "3efb2586-c421-4bb8-a2b4-960c13d62fad",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Al",
+            "notes": null,
+            "origin": "unknown",
+            "template": {
+               "id": "b7ba9c4c-ca46-41f7-ad37-188389b3f5aa",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "nominal": 0.0,
+               "type": "nominal_real",
+               "units": "dimensionless"
+            }
+         },
+         "type": "property_and_conditions"
+      },
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Co",
+            "notes": null,
+            "origin": "unknown",
+            "template": {
+               "id": "b7ba9c4c-ca46-41f7-ad37-188389b3f5aa",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "nominal": 10.0,
+               "type": "nominal_real",
+               "units": "dimensionless"
+            }
+         },
+         "type": "property_and_conditions"
+      },
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Cr",
+            "notes": null,
+            "origin": "unknown",
+            "template": {
+               "id": "b7ba9c4c-ca46-41f7-ad37-188389b3f5aa",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "nominal": 10.0,
+               "type": "nominal_real",
+               "units": "dimensionless"
+            }
+         },
+         "type": "property_and_conditions"
+      },
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Fe",
+            "notes": null,
+            "origin": "unknown",
+            "template": {
+               "id": "b7ba9c4c-ca46-41f7-ad37-188389b3f5aa",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "nominal": 55.0,
+               "type": "nominal_real",
+               "units": "dimensionless"
+            }
+         },
+         "type": "property_and_conditions"
+      },
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Ni",
+            "notes": null,
+            "origin": "unknown",
+            "template": {
+               "id": "b7ba9c4c-ca46-41f7-ad37-188389b3f5aa",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "nominal": 25.0,
+               "type": "nominal_real",
+               "units": "dimensionless"
+            }
+         },
+         "type": "property_and_conditions"
+      },
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "V",
+            "notes": null,
+            "origin": "unknown",
+            "template": {
+               "id": "b7ba9c4c-ca46-41f7-ad37-188389b3f5aa",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "nominal": 0.0,
+               "type": "nominal_real",
+               "units": "dimensionless"
+            }
+         },
+         "type": "property_and_conditions"
+      }
+   ],
+   "tags": [
+      "AAA05",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "e90af19d-e9c6-479a-be4d-fe937a32fe00",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "ccf06ee1-0c1e-4895-8260-103f9acaca21"
+   }
+}

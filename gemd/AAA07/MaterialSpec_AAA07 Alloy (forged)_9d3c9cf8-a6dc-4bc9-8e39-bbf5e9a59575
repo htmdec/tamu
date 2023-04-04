@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "AAA07 Alloy (forged)",
+   "notes": null,
+   "process": {
+      "id": "123cee86-474b-41d7-97d9-08e6fe84f958",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [
+      "AAA07",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "fb980734-29fa-4979-97eb-77714f36abff",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "9d3c9cf8-a6dc-4bc9-8e39-bbf5e9a59575"
+   }
+}

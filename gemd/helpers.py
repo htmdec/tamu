@@ -14,7 +14,7 @@ def out(item):
     function object to run on individual item during recursion 
     :param item: json item to write its destination 
     '''
-    fn = '_'.join([item.name, item.__class__.__name__, item.uids['auto']])
+    fn = '_'.join([item.__class__.__name__, item.name, item.uids['auto']])
     with open(os.path.join(_subdirpath, fn),'w') as fp :
         fp.write(_encoder.thin_dumps(item,indent=3))
         
@@ -63,20 +63,21 @@ def plot_graph(dirpath, mode='run'):
                 G.add_edge(process, uid)
         elif obj_type.startswith('measurement'):
             if obj_type.endswith(mode):
+                print("found measurement!")
                 material = obj_data['material']['id']
-                G.add_node(uid, color='pink')
+                G.add_node(uid, color='yellow')
                 G.add_edge(uid, material)
                 
             
     G_bis = nx.nx_agraph.to_agraph(G)
     G_bis.layout(prog="dot")
-    uid_path = os.path.join(dirpath, 'uid_graph.png')
+    uid_path = os.path.join(dirpath, '{}_uid_graph.png'.format(mode))
     G_bis.draw(uid_path)
     
     relabeled_G = nx.relabel_nodes(G, mapping)
     G_bis = nx.nx_agraph.to_agraph(relabeled_G)
     G_bis.layout(prog="dot")
-    info_path = os.path.join(dirpath, 'name_graph.png')
+    info_path = os.path.join(dirpath, '{}_name_graph.png'.format(mode))
     G_bis.draw(info_path)
    
     print("cycles in the graph: {}".format(list(nx.simple_cycles(G))))

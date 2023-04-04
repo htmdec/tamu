@@ -1,0 +1,21 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Selecting composition AAA06 for batch B ",
+   "notes": null,
+   "parameters": [],
+   "tags": [
+      "AAA06",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "84a89c7a-edc0-4351-8625-e8e67a3f9d34",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "00b81026-f06c-4a06-9742-1ebeb218e34d"
+   }
+}

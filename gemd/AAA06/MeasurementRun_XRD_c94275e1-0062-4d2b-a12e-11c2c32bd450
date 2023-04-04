@@ -1,0 +1,24 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "material": {
+      "id": "5cfcd3ed-e709-4cf2-bfdc-c9fe01cb15ff",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "XRD",
+   "notes": null,
+   "parameters": [],
+   "properties": [],
+   "source": null,
+   "spec": {
+      "id": "142677b9-ef2b-465a-a431-3e28bbe6c410",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "measurement_run",
+   "uids": {
+      "auto": "c94275e1-0062-4d2b-a12e-11c2c32bd450"
+   }
+}

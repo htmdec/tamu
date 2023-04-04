@@ -1,0 +1,29 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "cba6d845-589d-4a6b-be8c-be5a0e43bb9c",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "AAA02 Alloy (melted) Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "2b40c759-9b45-4f8e-ae4b-c60e217b57ec",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "AAA02",
+      "2209",
+      "B"
+   ],
+   "type": "ingredient_spec",
+   "uids": {
+      "auto": "bbbe5291-4324-48a7-8315-f34af2d19f0e"
+   },
+   "volume_fraction": null
+}

@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "AAA08 Alloy (melted)",
+   "notes": null,
+   "process": {
+      "id": "b50e06f2-bbc5-41ed-b6be-26194f6daf20",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [
+      "AAA08",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "fb980734-29fa-4979-97eb-77714f36abff",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "4ce3b100-db22-42ea-8c69-d12d37ffc503"
+   }
+}

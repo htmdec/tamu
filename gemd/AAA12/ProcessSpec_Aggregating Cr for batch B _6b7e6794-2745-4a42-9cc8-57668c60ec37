@@ -1,0 +1,21 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Aggregating Cr for batch B ",
+   "notes": null,
+   "parameters": [],
+   "tags": [
+      "AAA12",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "8098696b-cf26-418d-a3c4-d95d6c9243a0",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "6b7e6794-2745-4a42-9cc8-57668c60ec37"
+   }
+}

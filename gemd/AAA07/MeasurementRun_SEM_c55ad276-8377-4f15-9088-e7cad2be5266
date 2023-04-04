@@ -1,0 +1,24 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "material": {
+      "id": "206d7715-f533-45d5-9a06-7811e35c6034",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "SEM",
+   "notes": null,
+   "parameters": [],
+   "properties": [],
+   "source": null,
+   "spec": {
+      "id": "0c246a6a-4d8d-49fc-978d-0b32bf243e90",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "measurement_run",
+   "uids": {
+      "auto": "c55ad276-8377-4f15-9088-e7cad2be5266"
+   }
+}

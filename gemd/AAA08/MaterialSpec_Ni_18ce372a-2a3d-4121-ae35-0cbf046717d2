@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "Ni",
+   "notes": null,
+   "process": {
+      "id": "1cdef084-7fe3-42ae-9dd3-6e62931027d4",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [
+      "AAA08",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "ef0a3c5a-670e-41dc-868f-2dc2e7779bf3",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "18ce372a-2a3d-4121-ae35-0cbf046717d2"
+   }
+}

@@ -1,0 +1,21 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Aggregating Co for batch B ",
+   "notes": null,
+   "parameters": [],
+   "tags": [
+      "AAA09",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "8098696b-cf26-418d-a3c4-d95d6c9243a0",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "837f70e2-fc62-4bc5-8ad3-82e570d9a3c8"
+   }
+}

@@ -1,0 +1,21 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Aggregating V for batch B ",
+   "notes": null,
+   "parameters": [],
+   "tags": [
+      "AAA02",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "8098696b-cf26-418d-a3c4-d95d6c9243a0",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "3c747f08-9300-419c-8d5b-5f85fe820323"
+   }
+}

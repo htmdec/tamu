@@ -1,0 +1,30 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "23120b8e-a2fa-4471-9c51-8a7a5899cf4d",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "AAA02 Alloy (Batch B) Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "e38f8643-007a-4c42-a001-66b5df90d343",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "f170d01b-ea29-4a4f-9a55-4f855f31db55",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "0a9a0a0a-1c22-402c-b036-81978b204717"
+   },
+   "volume_fraction": null
+}

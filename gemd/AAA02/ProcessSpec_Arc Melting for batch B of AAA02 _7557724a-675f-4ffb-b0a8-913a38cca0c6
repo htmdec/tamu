@@ -1,0 +1,21 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Arc Melting for batch B of AAA02 ",
+   "notes": null,
+   "parameters": [],
+   "tags": [
+      "AAA02",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "55fbe726-ed0d-44ec-aa07-f97bf44d0908",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "7557724a-675f-4ffb-b0a8-913a38cca0c6"
+   }
+}

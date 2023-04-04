@@ -1,0 +1,30 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "c91d80b2-9c43-4ecb-a1ca-83936ab0f19e",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Cr Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "83d7b452-3bce-4ec1-b059-62c909773197",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "76121f7f-bc10-4d0e-9860-abd4505d3013",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "255700a5-cd1b-4df3-8bc6-34c47faeb081"
+   },
+   "volume_fraction": null
+}

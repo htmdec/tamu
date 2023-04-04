@@ -1,0 +1,24 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "material": {
+      "id": "206d7715-f533-45d5-9a06-7811e35c6034",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "NI",
+   "notes": null,
+   "parameters": [],
+   "properties": [],
+   "source": null,
+   "spec": {
+      "id": "23572aaa-9c6d-42a8-8e0e-96dd1ecacab6",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "measurement_run",
+   "uids": {
+      "auto": "b4c9c691-1b1b-439e-923c-5b95b4337d36"
+   }
+}

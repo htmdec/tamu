@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "AAA09 Alloy (forged)",
+   "notes": null,
+   "process": {
+      "id": "34c7b7c8-c1a8-488b-8515-df93daba7a06",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "unknown",
+   "spec": {
+      "id": "92563849-19fe-432a-af7c-e33b2a479f4d",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "16b98ab5-dd8f-4319-86a3-1ccd8d5ed640"
+   }
+}

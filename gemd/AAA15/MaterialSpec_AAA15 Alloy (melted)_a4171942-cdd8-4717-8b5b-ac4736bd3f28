@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "AAA15 Alloy (melted)",
+   "notes": null,
+   "process": {
+      "id": "7655e6b4-3336-48ba-bb05-393c2a22f526",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [
+      "AAA15",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "fb980734-29fa-4979-97eb-77714f36abff",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "a4171942-cdd8-4717-8b5b-ac4736bd3f28"
+   }
+}

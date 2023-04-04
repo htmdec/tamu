@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "AAA16 Alloy (homogenized)",
+   "notes": null,
+   "process": {
+      "id": "42c1ac2a-0938-49f5-a4fd-06d0cacebde1",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [
+      "AAA16",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "fb980734-29fa-4979-97eb-77714f36abff",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "6458b989-57ca-47c9-b0b4-811b1ed629ae"
+   }
+}

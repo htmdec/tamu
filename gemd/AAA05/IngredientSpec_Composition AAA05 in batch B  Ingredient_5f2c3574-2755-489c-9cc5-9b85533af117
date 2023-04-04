@@ -1,0 +1,29 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "ccf06ee1-0c1e-4895-8260-103f9acaca21",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Composition AAA05 in batch B  Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "07a95266-fc37-4529-b72f-ba0a9ca2f4b3",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "AAA05",
+      "2209",
+      "B"
+   ],
+   "type": "ingredient_spec",
+   "uids": {
+      "auto": "5f2c3574-2755-489c-9cc5-9b85533af117"
+   },
+   "volume_fraction": null
+}

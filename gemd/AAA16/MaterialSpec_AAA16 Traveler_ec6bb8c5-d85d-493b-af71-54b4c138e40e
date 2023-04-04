@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "AAA16 Traveler",
+   "notes": null,
+   "process": {
+      "id": "49512bfb-19c1-4b31-97ae-8c55078e45a5",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [
+      "AAA16",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "2c2195c5-0dca-41dc-80fb-0595e4f495a5",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "ec6bb8c5-d85d-493b-af71-54b4c138e40e"
+   }
+}

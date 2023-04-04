@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "AAA04 Alloy (homogenized)",
+   "notes": null,
+   "process": {
+      "id": "98620e2c-de02-47dd-ad47-50e2347a0a99",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "unknown",
+   "spec": {
+      "id": "fd74d82c-dcb4-4545-98ce-c18fec195534",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "2487331e-b626-4658-8b0d-1456e123cb99"
+   }
+}

@@ -1,0 +1,29 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "05f3de2d-c3f5-4a2f-991e-828e47aa4126",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "AAA16 Alloy (forged) Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "49512bfb-19c1-4b31-97ae-8c55078e45a5",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "AAA16",
+      "2209",
+      "B"
+   ],
+   "type": "ingredient_spec",
+   "uids": {
+      "auto": "6e3405fa-c2dc-424c-9991-13dec56a8fa3"
+   },
+   "volume_fraction": null
+}

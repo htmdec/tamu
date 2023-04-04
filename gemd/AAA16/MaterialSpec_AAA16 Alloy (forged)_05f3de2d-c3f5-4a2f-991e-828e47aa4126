@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "AAA16 Alloy (forged)",
+   "notes": null,
+   "process": {
+      "id": "a73d2e7e-3cb9-4a8d-b98f-6c07dd5e9806",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [
+      "AAA16",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "fb980734-29fa-4979-97eb-77714f36abff",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "05f3de2d-c3f5-4a2f-991e-828e47aa4126"
+   }
+}

@@ -1,0 +1,18 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Forging batch B of AAA12",
+   "notes": null,
+   "parameters": [],
+   "source": null,
+   "spec": {
+      "id": "5f4e8ff4-d50b-46a6-971d-1908b6473155",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "process_run",
+   "uids": {
+      "auto": "204c0622-4c67-482c-a99f-d888a1e333ec"
+   }
+}

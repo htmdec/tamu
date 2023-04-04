@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "AAA10 Alloy (Batch B)",
+   "notes": null,
+   "process": {
+      "id": "a39e472c-6150-4865-95d2-d4f151ddea9e",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [
+      "AAA10",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "fb980734-29fa-4979-97eb-77714f36abff",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "b0c58e47-20a0-4f8c-837c-16ba3d54bc96"
+   }
+}

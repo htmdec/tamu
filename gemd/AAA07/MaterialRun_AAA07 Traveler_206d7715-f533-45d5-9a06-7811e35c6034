@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "AAA07 Traveler",
+   "notes": null,
+   "process": {
+      "id": "a0b17637-4a36-494c-a75d-35f70aca3633",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "unknown",
+   "spec": {
+      "id": "39a0688d-f58f-46b6-81c5-d8ec02c9e906",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "206d7715-f533-45d5-9a06-7811e35c6034"
+   }
+}

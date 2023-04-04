@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Suggested Compositions",
+   "notes": null,
+   "process": {
+      "id": "98016827-15c0-450d-9094-14c890695b43",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "unknown",
+   "spec": {
+      "id": "40ed5f25-471a-4cc8-b5af-dac6ec0f948d",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "10ea8d42-c138-4e7e-9776-ad5d92926e57"
+   }
+}

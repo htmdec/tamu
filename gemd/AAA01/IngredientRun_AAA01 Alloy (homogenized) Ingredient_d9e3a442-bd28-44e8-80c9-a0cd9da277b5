@@ -1,0 +1,30 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "200cfe08-0d82-4a20-aeac-43c3c35a3020",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "AAA01 Alloy (homogenized) Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "8694f95c-8894-48e7-bab2-714c1953efce",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "1e704751-6a37-40d8-8bc8-8298001334a0",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "d9e3a442-bd28-44e8-80c9-a0cd9da277b5"
+   },
+   "volume_fraction": null
+}

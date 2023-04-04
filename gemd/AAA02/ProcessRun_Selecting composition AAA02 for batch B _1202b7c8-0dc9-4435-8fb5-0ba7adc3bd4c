@@ -1,0 +1,18 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Selecting composition AAA02 for batch B ",
+   "notes": null,
+   "parameters": [],
+   "source": null,
+   "spec": {
+      "id": "f98b79cb-f0ee-48d4-9e6b-f60ded819b0c",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "process_run",
+   "uids": {
+      "auto": "1202b7c8-0dc9-4435-8fb5-0ba7adc3bd4c"
+   }
+}

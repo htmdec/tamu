@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "AAA13 Traveler",
+   "notes": null,
+   "process": {
+      "id": "c127f2ba-5dac-4797-8b40-e46f1adceb3a",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "unknown",
+   "spec": {
+      "id": "b080a831-9083-4f3b-bdd8-f541e332700b",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "7388a8ce-a78f-497f-ad9e-5a45a1e55ba3"
+   }
+}

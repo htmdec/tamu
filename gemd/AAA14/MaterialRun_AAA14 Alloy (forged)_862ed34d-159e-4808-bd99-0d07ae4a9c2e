@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "AAA14 Alloy (forged)",
+   "notes": null,
+   "process": {
+      "id": "f9c981d6-8aea-49bd-926e-779dff9e554c",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "unknown",
+   "spec": {
+      "id": "780d338f-c01a-4792-aca1-258e8b1d7704",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "862ed34d-159e-4808-bd99-0d07ae4a9c2e"
+   }
+}

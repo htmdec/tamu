@@ -1,0 +1,17 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Tensile",
+   "notes": "Tensile",
+   "parameters": [],
+   "tags": [],
+   "template": {
+      "id": "cb5f0639-ce97-4e0f-b69c-6c54c07aeaf0",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "measurement_spec",
+   "uids": {
+      "auto": "fbc05528-9cf0-46d1-abc5-8db7a04a00ca"
+   }
+}

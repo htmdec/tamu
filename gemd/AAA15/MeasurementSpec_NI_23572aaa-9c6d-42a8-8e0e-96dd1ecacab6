@@ -1,0 +1,17 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "NI",
+   "notes": "NI",
+   "parameters": [],
+   "tags": [],
+   "template": {
+      "id": "e6729275-da26-4a4e-8c34-69e6f3b6bf89",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "measurement_spec",
+   "uids": {
+      "auto": "23572aaa-9c6d-42a8-8e0e-96dd1ecacab6"
+   }
+}

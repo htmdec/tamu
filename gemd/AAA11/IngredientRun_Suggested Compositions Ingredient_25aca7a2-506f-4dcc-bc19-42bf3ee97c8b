@@ -1,0 +1,30 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "8dae19ea-45c6-47dd-b621-a6aa2d4a36a0",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Suggested Compositions Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "ead441c3-cea2-4195-b48d-094c45df98a1",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "6fc1e174-0bd1-4aba-a38f-8df463c73b03",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "25aca7a2-506f-4dcc-bc19-42bf3ee97c8b"
+   },
+   "volume_fraction": null
+}

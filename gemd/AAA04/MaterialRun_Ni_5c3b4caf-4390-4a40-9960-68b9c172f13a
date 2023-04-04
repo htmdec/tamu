@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Ni",
+   "notes": null,
+   "process": {
+      "id": "a9d39473-6607-49cc-bc51-50eca8851281",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "unknown",
+   "spec": {
+      "id": "c47a40c1-491d-4c75-8f40-9d19e7ea6e5e",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "5c3b4caf-4390-4a40-9960-68b9c172f13a"
+   }
+}

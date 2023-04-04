@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "AAA13 Alloy (melted)",
+   "notes": null,
+   "process": {
+      "id": "664105cd-4afa-48b6-9b65-342b25f01dc6",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "unknown",
+   "spec": {
+      "id": "44b65ee6-3e85-48fc-8c11-4a883c2f48e8",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "46a17b07-ca91-4c88-9a62-fadaa48e7617"
+   }
+}

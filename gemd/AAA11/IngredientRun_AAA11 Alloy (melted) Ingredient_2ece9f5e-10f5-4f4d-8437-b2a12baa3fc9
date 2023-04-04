@@ -1,0 +1,30 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "22bef96c-f7b2-43cf-9122-9f8ac987c0a1",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "AAA11 Alloy (melted) Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "b434294a-66cc-4723-b370-bf82fcc29868",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "1d9b65bf-50e9-4b8f-9d5d-218b3cedb866",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "2ece9f5e-10f5-4f4d-8437-b2a12baa3fc9"
+   },
+   "volume_fraction": null
+}

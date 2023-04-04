@@ -1,0 +1,12 @@
+{
+   "conditions": [],
+   "description": "Tensile",
+   "name": "Tensile",
+   "parameters": [],
+   "properties": [],
+   "tags": [],
+   "type": "measurement_template",
+   "uids": {
+      "auto": "cb5f0639-ce97-4e0f-b69c-6c54c07aeaf0"
+   }
+}

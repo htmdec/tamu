@@ -1,0 +1,29 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "8cc25b96-359f-4711-bd35-9ec2aa4561e1",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "AAA12 Alloy (melted) Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "31238140-3894-44a3-bfda-d6f2fef14d89",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "AAA12",
+      "2209",
+      "B"
+   ],
+   "type": "ingredient_spec",
+   "uids": {
+      "auto": "d40f1204-1f7a-461f-b58e-d58ae7a32a5f"
+   },
+   "volume_fraction": null
+}

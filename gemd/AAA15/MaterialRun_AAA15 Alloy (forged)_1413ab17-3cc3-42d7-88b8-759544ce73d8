@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "AAA15 Alloy (forged)",
+   "notes": null,
+   "process": {
+      "id": "3e245449-4d22-4ac9-85e3-4b530ddc784f",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "unknown",
+   "spec": {
+      "id": "3aee5c35-a161-43a1-adaf-301dfb25a507",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "1413ab17-3cc3-42d7-88b8-759544ce73d8"
+   }
+}

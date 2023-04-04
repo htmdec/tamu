@@ -1,0 +1,30 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "561aa3fe-4740-494a-b1d2-ddc4d8d6b0c3",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "V Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "90fe55ae-7af8-4182-a058-9bb67b5ddaee",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "0ce9aca9-ad51-4235-a095-d3ae22aa8a6f",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "8a2eb10c-1969-46bd-8b7e-b599e5ede30d"
+   },
+   "volume_fraction": null
+}

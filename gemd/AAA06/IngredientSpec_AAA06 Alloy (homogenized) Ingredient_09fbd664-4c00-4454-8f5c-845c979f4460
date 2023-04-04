@@ -1,0 +1,29 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "128db083-1a31-4a40-b828-7609c95527cc",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "AAA06 Alloy (homogenized) Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "c498b915-9ddc-4cce-9cde-4ad26588b0dd",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "AAA06",
+      "2209",
+      "B"
+   ],
+   "type": "ingredient_spec",
+   "uids": {
+      "auto": "09fbd664-4c00-4454-8f5c-845c979f4460"
+   },
+   "volume_fraction": null
+}

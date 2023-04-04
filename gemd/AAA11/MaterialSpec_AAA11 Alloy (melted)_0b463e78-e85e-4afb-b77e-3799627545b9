@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "AAA11 Alloy (melted)",
+   "notes": null,
+   "process": {
+      "id": "3a11e00e-3036-4797-94d4-705d9c052bab",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [
+      "AAA11",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "fb980734-29fa-4979-97eb-77714f36abff",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "0b463e78-e85e-4afb-b77e-3799627545b9"
+   }
+}

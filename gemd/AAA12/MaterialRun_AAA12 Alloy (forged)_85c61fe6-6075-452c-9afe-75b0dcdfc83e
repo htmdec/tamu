@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "AAA12 Alloy (forged)",
+   "notes": null,
+   "process": {
+      "id": "204c0622-4c67-482c-a99f-d888a1e333ec",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "unknown",
+   "spec": {
+      "id": "39c10134-dfa9-449e-af69-3fabfde91cd1",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "85c61fe6-6075-452c-9afe-75b0dcdfc83e"
+   }
+}

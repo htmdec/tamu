@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "AAA13 Alloy (Batch B)",
+   "notes": null,
+   "process": {
+      "id": "e997dd6b-38e5-42dc-8f59-25448c68b4e2",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "unknown",
+   "spec": {
+      "id": "d5ccabde-03c8-4ae6-a3ec-dece6c34733e",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "d03f60bf-173c-476e-99f8-a9159c14754c"
+   }
+}

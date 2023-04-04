@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "AAA08 Traveler",
+   "notes": null,
+   "process": {
+      "id": "a001d5a9-b95f-4b40-ab0f-b62672f0f158",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "unknown",
+   "spec": {
+      "id": "e515e043-fdc4-413f-8af7-da4b56b395d5",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "dd31d0f8-b9e9-47df-8569-93e8ede213cd"
+   }
+}

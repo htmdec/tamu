@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "AAA10 Traveler",
+   "notes": null,
+   "process": {
+      "id": "468395d3-4bdb-4605-b1ed-cf3eb36182a4",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "unknown",
+   "spec": {
+      "id": "f65996e0-fade-4b13-a1f8-477ae52ee214",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "872d349a-6036-41e9-9ab3-5cbfe068a4cd"
+   }
+}

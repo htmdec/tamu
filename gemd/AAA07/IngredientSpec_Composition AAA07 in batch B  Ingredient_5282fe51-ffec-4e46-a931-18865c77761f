@@ -1,0 +1,29 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "2ff62769-d7d8-402e-8fff-05b6daa2aa58",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Composition AAA07 in batch B  Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "75fe7365-8ea5-4532-a9ab-5ac2ba7254bc",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "AAA07",
+      "2209",
+      "B"
+   ],
+   "type": "ingredient_spec",
+   "uids": {
+      "auto": "5282fe51-ffec-4e46-a931-18865c77761f"
+   },
+   "volume_fraction": null
+}

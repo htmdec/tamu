@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "AAA04 Traveler",
+   "notes": null,
+   "process": {
+      "id": "a37bdc2f-7bae-4dbd-9882-65a299f61b15",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [
+      "AAA04",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "2c2195c5-0dca-41dc-80fb-0595e4f495a5",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "b40ef4a3-2c37-4619-b016-4dbb9e53406a"
+   }
+}

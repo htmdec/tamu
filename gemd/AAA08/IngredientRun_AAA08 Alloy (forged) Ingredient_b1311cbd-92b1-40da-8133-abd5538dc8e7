@@ -1,0 +1,30 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "20ec7d52-c056-4697-80ee-7e16a56ca6ce",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "AAA08 Alloy (forged) Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "a001d5a9-b95f-4b40-ab0f-b62672f0f158",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "facda454-a11e-46fd-9cc7-00ca0bbaba52",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "b1311cbd-92b1-40da-8133-abd5538dc8e7"
+   },
+   "volume_fraction": null
+}

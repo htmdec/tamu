@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "AAA14 Alloy (homogenized)",
+   "notes": null,
+   "process": {
+      "id": "26d48941-abce-4cf5-95e7-7ba48eaf3fe6",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [
+      "AAA14",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "fb980734-29fa-4979-97eb-77714f36abff",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "53c8802e-886b-4478-b6b9-ea6042e083cf"
+   }
+}

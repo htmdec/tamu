@@ -1,0 +1,30 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "f9fc540d-1fd7-4209-a7fa-93e5c909dd51",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Ni Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "90fe55ae-7af8-4182-a058-9bb67b5ddaee",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "77c76f40-dbdd-419a-a3ce-9cc7602de677",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "e90abc59-c96e-4467-a9cd-36bd31ed46f4"
+   },
+   "volume_fraction": null
+}

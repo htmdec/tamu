@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "AAA16 Alloy (Batch B)",
+   "notes": null,
+   "process": {
+      "id": "ed735374-8970-496d-bee0-77302743f560",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [
+      "AAA16",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "fb980734-29fa-4979-97eb-77714f36abff",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "f2a1c0bb-cc27-4646-b50d-74da9663da84"
+   }
+}

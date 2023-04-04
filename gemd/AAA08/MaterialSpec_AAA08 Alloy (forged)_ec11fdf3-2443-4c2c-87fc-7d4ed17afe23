@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "AAA08 Alloy (forged)",
+   "notes": null,
+   "process": {
+      "id": "660ce6cc-2f67-4471-89e1-1318a1eb5acb",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [
+      "AAA08",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "fb980734-29fa-4979-97eb-77714f36abff",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "ec11fdf3-2443-4c2c-87fc-7d4ed17afe23"
+   }
+}

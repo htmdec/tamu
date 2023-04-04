@@ -1,0 +1,29 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "53c8802e-886b-4478-b6b9-ea6042e083cf",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "AAA14 Alloy (homogenized) Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "d63684d6-7772-4b02-b424-a354ec100904",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "AAA14",
+      "2209",
+      "B"
+   ],
+   "type": "ingredient_spec",
+   "uids": {
+      "auto": "7f87e5bb-1902-4c93-9d37-badc1917ae6b"
+   },
+   "volume_fraction": null
+}

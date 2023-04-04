@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "AAA10 Alloy (homogenized)",
+   "notes": null,
+   "process": {
+      "id": "95119902-debc-410f-9361-74df723eefff",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "unknown",
+   "spec": {
+      "id": "0afc9e80-ccb3-41be-9afc-86384d8a551f",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "a55a2b71-40b5-4f24-affc-7fcc5abfcfaf"
+   }
+}

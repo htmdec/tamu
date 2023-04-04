@@ -1,0 +1,29 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "a4d4ac81-ca85-4f33-8ca2-9efa6396148d",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Composition AAA14 in batch B  Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "61aef334-481c-4518-9e0c-ae086a6941a1",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "AAA14",
+      "2209",
+      "B"
+   ],
+   "type": "ingredient_spec",
+   "uids": {
+      "auto": "5ae61556-b39c-4206-972d-0819502ec9ee"
+   },
+   "volume_fraction": null
+}

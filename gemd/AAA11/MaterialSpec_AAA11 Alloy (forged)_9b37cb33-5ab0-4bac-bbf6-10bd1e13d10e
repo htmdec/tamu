@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "AAA11 Alloy (forged)",
+   "notes": null,
+   "process": {
+      "id": "902dfb03-c33d-499c-a951-5f16f5ca02a8",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [
+      "AAA11",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "fb980734-29fa-4979-97eb-77714f36abff",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "9b37cb33-5ab0-4bac-bbf6-10bd1e13d10e"
+   }
+}

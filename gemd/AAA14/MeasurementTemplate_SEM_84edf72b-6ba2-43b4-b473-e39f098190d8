@@ -1,0 +1,12 @@
+{
+   "conditions": [],
+   "description": "SEM",
+   "name": "SEM",
+   "parameters": [],
+   "properties": [],
+   "tags": [],
+   "type": "measurement_template",
+   "uids": {
+      "auto": "84edf72b-6ba2-43b4-b473-e39f098190d8"
+   }
+}

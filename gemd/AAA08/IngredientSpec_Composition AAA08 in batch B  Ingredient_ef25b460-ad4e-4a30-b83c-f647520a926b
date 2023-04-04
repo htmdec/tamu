@@ -1,0 +1,29 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "e97b79ae-e103-4723-b4e8-6e86f92a4348",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Composition AAA08 in batch B  Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "0ce3b8a6-7903-48a6-b73a-2ca1db90804b",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "AAA08",
+      "2209",
+      "B"
+   ],
+   "type": "ingredient_spec",
+   "uids": {
+      "auto": "ef25b460-ad4e-4a30-b83c-f647520a926b"
+   },
+   "volume_fraction": null
+}

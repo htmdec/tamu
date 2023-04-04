@@ -1,0 +1,17 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "SEM",
+   "notes": "SEM",
+   "parameters": [],
+   "tags": [],
+   "template": {
+      "id": "84edf72b-6ba2-43b4-b473-e39f098190d8",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "measurement_spec",
+   "uids": {
+      "auto": "0c246a6a-4d8d-49fc-978d-0b32bf243e90"
+   }
+}

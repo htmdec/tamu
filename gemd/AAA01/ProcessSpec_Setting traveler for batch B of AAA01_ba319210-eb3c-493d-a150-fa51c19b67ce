@@ -1,0 +1,21 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Setting traveler for batch B of AAA01",
+   "notes": null,
+   "parameters": [],
+   "tags": [
+      "AAA01",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "649f2763-900d-45d7-be92-d9fed4216f95",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "ba319210-eb3c-493d-a150-fa51c19b67ce"
+   }
+}

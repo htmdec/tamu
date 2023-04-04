@@ -1,0 +1,18 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "homogenizing batch B of AAA12",
+   "notes": null,
+   "parameters": [],
+   "source": null,
+   "spec": {
+      "id": "31238140-3894-44a3-bfda-d6f2fef14d89",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "process_run",
+   "uids": {
+      "auto": "c1eb53b6-34e8-4076-b89f-a80a7873c40f"
+   }
+}

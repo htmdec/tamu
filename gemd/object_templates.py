@@ -74,6 +74,13 @@ OBJ_TEMPL[name] = ProcessTemplate(
                 ''',
 )
 
+name = 'Setting Traveler'
+OBJ_TEMPL[name] = ProcessTemplate(
+    name,
+    description='''Setting Traveler
+                ''',
+)
+
 ######## Material Templates ########
 
 name = 'Summary Sheet'
@@ -123,4 +130,46 @@ name = 'Weighting'
 OBJ_TEMPL[name] = MeasurementTemplate(
     name,
     description='The process of weighting',
+)
+
+name = 'SEM'
+OBJ_TEMPL[name] = MeasurementTemplate(
+    name,
+    description='SEM'
+)
+
+name = 'XRD'
+OBJ_TEMPL[name] = MeasurementTemplate(
+    name,
+    description='XRD'
+)
+
+name = 'HSR'
+OBJ_TEMPL[name] = MeasurementTemplate(
+    name,
+    description='HSR'
+)
+
+name = 'Microhardness-TAMU'
+OBJ_TEMPL[name] = MeasurementTemplate(
+    name,
+    description='Microhardness-TAMU'
+)
+
+name = 'NI'
+OBJ_TEMPL[name] = MeasurementTemplate(
+    name,
+    description='NI'
+)
+
+name = 'LIPT'
+OBJ_TEMPL[name] = MeasurementTemplate(
+    name,
+    description='NI'
+)
+
+name = 'Tensile'
+OBJ_TEMPL[name] = MeasurementTemplate(
+    name,
+    description='Tensile'
 )
