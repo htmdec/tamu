@@ -1,0 +1,13 @@
+{
+   "allowed_labels": [],
+   "allowed_names": [],
+   "conditions": [],
+   "description": "Forging\n                ",
+   "name": "Forging",
+   "parameters": [],
+   "tags": [],
+   "type": "process_template",
+   "uids": {
+      "auto": "0b1dcc97-8eb0-4293-885d-22d3dce41497"
+   }
+}

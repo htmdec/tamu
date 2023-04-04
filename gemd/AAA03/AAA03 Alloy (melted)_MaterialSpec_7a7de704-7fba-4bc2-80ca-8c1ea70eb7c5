@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "AAA03 Alloy (melted)",
+   "notes": null,
+   "process": {
+      "id": "e11ae20b-325e-4608-902e-1fd6e73b2fcf",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [
+      "AAA03",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "a1bc6541-a515-47fa-aa8d-0b7623b69550",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "7a7de704-7fba-4bc2-80ca-8c1ea70eb7c5"
+   }
+}

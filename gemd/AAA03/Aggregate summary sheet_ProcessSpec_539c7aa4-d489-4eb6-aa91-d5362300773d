@@ -1,0 +1,17 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Aggregate summary sheet",
+   "notes": null,
+   "parameters": [],
+   "tags": [],
+   "template": {
+      "id": "8ffc014f-1b87-41ef-8c11-78139384ed62",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "539c7aa4-d489-4eb6-aa91-d5362300773d"
+   }
+}

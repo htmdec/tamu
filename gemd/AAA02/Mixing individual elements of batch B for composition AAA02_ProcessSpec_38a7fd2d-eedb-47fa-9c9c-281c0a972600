@@ -1,0 +1,21 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Mixing individual elements of batch B for composition AAA02",
+   "notes": null,
+   "parameters": [],
+   "tags": [
+      "AAA02",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "7de808fb-89dd-46f5-a0aa-ef5e1bf6a7f9",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "38a7fd2d-eedb-47fa-9c9c-281c0a972600"
+   }
+}

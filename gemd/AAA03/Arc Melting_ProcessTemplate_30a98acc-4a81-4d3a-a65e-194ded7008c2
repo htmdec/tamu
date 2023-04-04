@@ -1,0 +1,13 @@
+{
+   "allowed_labels": [],
+   "allowed_names": [],
+   "conditions": [],
+   "description": "Arc Melting\n                ",
+   "name": "Arc Melting",
+   "parameters": [],
+   "tags": [],
+   "type": "process_template",
+   "uids": {
+      "auto": "30a98acc-4a81-4d3a-a65e-194ded7008c2"
+   }
+}

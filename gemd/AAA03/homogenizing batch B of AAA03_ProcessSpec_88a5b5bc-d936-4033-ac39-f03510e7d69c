@@ -1,0 +1,21 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "homogenizing batch B of AAA03",
+   "notes": null,
+   "parameters": [],
+   "tags": [
+      "AAA03",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "faaaf67e-64fd-4b2a-9e3b-55d9ec9f3c98",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "88a5b5bc-d936-4033-ac39-f03510e7d69c"
+   }
+}

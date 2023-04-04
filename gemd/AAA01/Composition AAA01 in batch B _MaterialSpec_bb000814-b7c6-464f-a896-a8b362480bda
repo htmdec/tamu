@@ -1,0 +1,152 @@
+{
+   "file_links": [],
+   "name": "Composition AAA01 in batch B ",
+   "notes": null,
+   "process": {
+      "id": "08a9cba2-7acd-4f6c-9076-897459344b06",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Al",
+            "notes": null,
+            "origin": "unknown",
+            "template": {
+               "id": "a7d7502d-35dd-45be-a467-a72ed0c0e118",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "nominal": 0.0,
+               "type": "nominal_real",
+               "units": "dimensionless"
+            }
+         },
+         "type": "property_and_conditions"
+      },
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Co",
+            "notes": null,
+            "origin": "unknown",
+            "template": {
+               "id": "a7d7502d-35dd-45be-a467-a72ed0c0e118",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "nominal": 45.0,
+               "type": "nominal_real",
+               "units": "dimensionless"
+            }
+         },
+         "type": "property_and_conditions"
+      },
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Cr",
+            "notes": null,
+            "origin": "unknown",
+            "template": {
+               "id": "a7d7502d-35dd-45be-a467-a72ed0c0e118",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "nominal": 10.0,
+               "type": "nominal_real",
+               "units": "dimensionless"
+            }
+         },
+         "type": "property_and_conditions"
+      },
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Fe",
+            "notes": null,
+            "origin": "unknown",
+            "template": {
+               "id": "a7d7502d-35dd-45be-a467-a72ed0c0e118",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "nominal": 20.0,
+               "type": "nominal_real",
+               "units": "dimensionless"
+            }
+         },
+         "type": "property_and_conditions"
+      },
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Ni",
+            "notes": null,
+            "origin": "unknown",
+            "template": {
+               "id": "a7d7502d-35dd-45be-a467-a72ed0c0e118",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "nominal": 15.0,
+               "type": "nominal_real",
+               "units": "dimensionless"
+            }
+         },
+         "type": "property_and_conditions"
+      },
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "V",
+            "notes": null,
+            "origin": "unknown",
+            "template": {
+               "id": "a7d7502d-35dd-45be-a467-a72ed0c0e118",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "nominal": 10.0,
+               "type": "nominal_real",
+               "units": "dimensionless"
+            }
+         },
+         "type": "property_and_conditions"
+      }
+   ],
+   "tags": [
+      "AAA01",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "2f69ef58-d3c2-41ce-ae2e-c4f1ad7a0b35",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "bb000814-b7c6-464f-a896-a8b362480bda"
+   }
+}

@@ -36,8 +36,8 @@ def plot_graph(dirpath, mode='run'):
     for obj in gemd_objects:
         fp =  open(obj, 'r')
         obj_data = json.load(fp)
-        print(obj_data['type'])
-        print(obj_data['name'])
+        # print(obj_data['type'])
+        # print(obj_data['name'])
         obj_type = obj_data['type']
         if obj_type.startswith('parameter') or obj_type.startswith('condition') or obj_type.startswith('property'):
             nb_disregarded +=1

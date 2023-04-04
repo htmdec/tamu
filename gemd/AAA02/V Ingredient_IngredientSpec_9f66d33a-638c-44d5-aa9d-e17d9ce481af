@@ -1,0 +1,29 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "f944cfab-c806-493a-9e4b-f678885d1b4e",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "V Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "38a7fd2d-eedb-47fa-9c9c-281c0a972600",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "AAA02",
+      "2209",
+      "B"
+   ],
+   "type": "ingredient_spec",
+   "uids": {
+      "auto": "9f66d33a-638c-44d5-aa9d-e17d9ce481af"
+   },
+   "volume_fraction": null
+}

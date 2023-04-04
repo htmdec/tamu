@@ -1,0 +1,21 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Aggregating Fe for batch B ",
+   "notes": null,
+   "parameters": [],
+   "tags": [
+      "AAA02",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "8ffc014f-1b87-41ef-8c11-78139384ed62",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "34e40f95-5ce4-41c3-b135-4e9cc5623a39"
+   }
+}

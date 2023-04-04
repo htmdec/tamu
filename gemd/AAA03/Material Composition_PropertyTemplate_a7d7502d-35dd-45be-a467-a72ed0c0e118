@@ -1,0 +1,15 @@
+{
+   "bounds": {
+      "default_units": "dimensionless",
+      "lower_bound": 0,
+      "type": "real_bounds",
+      "upper_bound": 100
+   },
+   "description": "Percentage of the total composition that a given Material takes",
+   "name": "Material Composition",
+   "tags": [],
+   "type": "property_template",
+   "uids": {
+      "auto": "a7d7502d-35dd-45be-a467-a72ed0c0e118"
+   }
+}

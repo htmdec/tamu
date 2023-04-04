@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "Fe",
+   "notes": null,
+   "process": {
+      "id": "25ffe596-15fe-4f53-94a9-0b08f89970de",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [
+      "AAA01",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "b78257b3-b743-489f-a4fc-1d381c70d839",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "dfecd8d8-6dcd-4389-877d-99bec1f7e2fb"
+   }
+}

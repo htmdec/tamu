@@ -1,0 +1,21 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Forging batch B of AAA03",
+   "notes": null,
+   "parameters": [],
+   "tags": [
+      "AAA03",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "0b1dcc97-8eb0-4293-885d-22d3dce41497",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "1afe16b4-a569-4421-ad06-cf8ab46b0e82"
+   }
+}

@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "AAA03 Alloy (homogenized)",
+   "notes": null,
+   "process": {
+      "id": "88a5b5bc-d936-4033-ac39-f03510e7d69c",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [
+      "AAA03",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "a1bc6541-a515-47fa-aa8d-0b7623b69550",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "ea539e75-f4e1-469a-a27b-0d3c3b1e9633"
+   }
+}

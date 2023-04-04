@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "Cr",
+   "notes": null,
+   "process": {
+      "id": "2c210cdf-1662-462a-a53c-594724a54684",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [
+      "AAA02",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "b78257b3-b743-489f-a4fc-1d381c70d839",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "66287f36-16a5-4f9b-9ffe-10148f705918"
+   }
+}

@@ -1,0 +1,25 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "929f11b6-910a-41f6-9f5b-1cd5ddcb55b7",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Summary Sheet Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "2cf2d540-7082-45bf-be47-ac036dd0bb62",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_spec",
+   "uids": {
+      "auto": "47d70f61-91fc-4f10-bf2e-4e075e3fa9b8"
+   },
+   "volume_fraction": null
+}

@@ -55,6 +55,25 @@ OBJ_TEMPL[name] = ProcessTemplate(
                 ''',
 )
 
+name = 'Arc Melting'
+OBJ_TEMPL[name] = ProcessTemplate(
+    name,
+    description='Arc Melting',
+)
+
+name = 'Homogenization'
+OBJ_TEMPL[name] = ProcessTemplate(
+    name,
+    description='Homogenization',
+)
+
+name = 'Forging'
+OBJ_TEMPL[name] = ProcessTemplate(
+    name,
+    description='''Forging
+                ''',
+)
+
 ######## Material Templates ########
 
 name = 'Summary Sheet'
@@ -97,4 +116,11 @@ name = 'Alloy Sample'
 OBJ_TEMPL[name] = MaterialTemplate(
     name,
     description='Sample of the alloy, extracted from traveler, and destined for specific characterization based on its sample number (=placement in the traveler)',
+)
+
+######## Measurement Templates ########
+name = 'Weighting'
+OBJ_TEMPL[name] = MeasurementTemplate(
+    name,
+    description='The process of weighting',
 )

@@ -1,0 +1,10 @@
+{
+   "description": "Summary sheet of all the experiments conducted in previous batch that will help generate the next compositions spaces and suggest compositions via Bayesian Optimizization",
+   "name": "Summary Sheet",
+   "properties": [],
+   "tags": [],
+   "type": "material_template",
+   "uids": {
+      "auto": "fef8a65b-5b34-4c6a-9e02-e5daa6cedabf"
+   }
+}

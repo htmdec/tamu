@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "AAA03 Alloy (forged)",
+   "notes": null,
+   "process": {
+      "id": "1afe16b4-a569-4421-ad06-cf8ab46b0e82",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [
+      "AAA03",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "a1bc6541-a515-47fa-aa8d-0b7623b69550",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "5f784c1a-17a1-4401-80f8-e0076678cb19"
+   }
+}
