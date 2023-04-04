@@ -1,0 +1,21 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Aggregating V for batch B of composition AAA02",
+   "notes": null,
+   "parameters": [],
+   "tags": [
+      "AAA02",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "3d7bd798-422a-4e50-8d3d-3c6067167b8b",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "46b4c8ad-51ae-4e0f-90a4-dfdd4b6963b3"
+   }
+}

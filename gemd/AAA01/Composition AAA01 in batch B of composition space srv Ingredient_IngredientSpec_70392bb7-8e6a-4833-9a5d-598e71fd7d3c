@@ -1,0 +1,29 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "3d19ff65-c550-4d2e-854f-70d4d3a0344a",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Composition AAA01 in batch B of composition space srv Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "92d3c122-3640-48bf-93eb-3eb18ff521bc",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "AAA01",
+      "2209",
+      "B"
+   ],
+   "type": "ingredient_spec",
+   "uids": {
+      "auto": "70392bb7-8e6a-4833-9a5d-598e71fd7d3c"
+   },
+   "volume_fraction": null
+}

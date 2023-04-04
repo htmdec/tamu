@@ -1,0 +1,17 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Generate the next set of compositions using Bayesian Optimizations",
+   "notes": null,
+   "parameters": [],
+   "tags": [],
+   "template": {
+      "id": "fea4a736-bad6-4176-a87f-e59feac24618",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "78efd5f2-231a-4aec-8d4a-c2c6e1496737"
+   }
+}

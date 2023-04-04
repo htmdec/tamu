@@ -4,19 +4,21 @@ from gemd.entity.object import MaterialSpec, ProcessSpec, IngredientSpec, Measur
 from object_templates import OBJ_TEMPL
 from attribute_templates import ATTR_TEMPL
 
-def generate_composition(conditions=[], parameters=[], output_mat_name='', output_mat_properties=[]):
+def generate_composition(conditions=[], parameters=[], output_mat_name='', output_mat_properties=[], tags=[]):
     generate_composition_process_spec = ProcessSpec(
         'Generating a specific composition from candidates inferred via Bayesian optimization',
-        template=OBJ_TEMPL['Bayezian Optimization'],
+        template=OBJ_TEMPL['Bayesian Optimization'],
         conditions=conditions,
         parameters=parameters,
+        tags=tags
     )
         
     composition_space_material_spec = MaterialSpec(
         output_mat_name,
         template=OBJ_TEMPL['Composition'],
         process=generate_composition_process_spec,
-        properties=output_mat_properties
+        properties=output_mat_properties,
+        tags=tags
     )
     
     return composition_space_material_spec
@@ -92,3 +94,12 @@ def setting_alloy_sample(ingredients=[],conditions=[], parameters=[], output_mat
     )
     
     return alloy_sample_material_spec
+
+# def aggregate_materials(composition_material_spec):
+    
+#     setting_alloy_process_spec = ProcessSpec(
+#         'Aggregating materials for {} and their respective quantities'.format(),
+#         template=OBJ_TEMPL['Aggregate'],
+#         conditions=conditions,
+#         parameters=parameters,
+#     )

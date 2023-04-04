@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "AAA01 Alloy",
+   "notes": null,
+   "process": {
+      "id": "c90d15fd-f153-44d4-9eda-aea9107ac1af",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [
+      "AAA01",
+      "2209",
+      "B"
+   ],
+   "template": {
+      "id": "236dc240-4045-445d-b3be-b67b24b84703",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "3ca372d2-b710-4dee-8995-af28c6032014"
+   }
+}

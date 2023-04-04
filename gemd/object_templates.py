@@ -5,7 +5,7 @@ from attribute_templates import ATTR_TEMPL
 OBJ_TEMPL = {}
 
 ######## Process Templates ########
-name = 'Bayezian Optimization'
+name = 'Bayesian Optimization'
 OBJ_TEMPL[name] = ProcessTemplate(
     name,
     description='''Applying Bayezian Optimization based on multi-inputs/multi-output
@@ -33,18 +33,58 @@ OBJ_TEMPL[name] = ProcessTemplate(
                 ''',
 )
 
-######## Material Templates ########
-name = 'Composition'
-OBJ_TEMPL[name] = MaterialTemplate(
+name = 'Aggregating'
+OBJ_TEMPL[name] = ProcessTemplate(
     name,
-    description='Composition suggested by the Bayesian Optimization results',
+    description='''Aggregaging the correct ingredients to produce a mixture that can go through
+                fabrication procedure
+                ''',
 )
 
+name = 'Selecting'
+OBJ_TEMPL[name] = ProcessTemplate(
+    name,
+    description='''Selecting a composition from suggested compositions by Bayesian inference
+                ''',
+)
+
+name = 'Mixing'
+OBJ_TEMPL[name] = ProcessTemplate(
+    name,
+    description='''Mixing individual elements of the composition to make the initial mixture for the alloy 
+                ''',
+)
+
+######## Material Templates ########
+
+name = 'Summary Sheet'
+OBJ_TEMPL[name] = MaterialTemplate(
+    name,
+    description='Summary sheet of all the experiments conducted in previous batch that will help generate the next compositions spaces and suggest compositions via Bayesian Optimizization',
+)
+
+name = 'Inferred Alloy Compositions'
+OBJ_TEMPL[name] = MaterialTemplate(
+    name,
+    description='Final selection of the bayesian optimziation algorithm, which can generate different number of compositions (i.e., 16 for VAM, 8 for DED) under various paramereters',
+)
+
+name = 'Alloy Composition'
+OBJ_TEMPL[name] = MaterialTemplate(
+    name,
+    description='Composition selected to be fabricated and characterized',
+)
+
+name = 'Composition Element'
+OBJ_TEMPL[name] = MaterialTemplate(
+    name,
+    description='Individual ingredient of a composition',
+)
 
 name = 'Alloy'
 OBJ_TEMPL[name] = MaterialTemplate(
     name,
-    description='Alloy generated with its own composition and synthesis parameters',
+    description='Alloy generated with a unique composition and synthesis parameters',
 )
 
 name = 'Alloy Traveler'
