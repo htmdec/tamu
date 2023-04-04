@@ -61,7 +61,13 @@ def plot_graph(dirpath, mode='run'):
                     process = obj_data['process']['id']
                 G.add_node(uid, color='green')
                 G.add_edge(process, uid)
-    
+        elif obj_type.startswith('measurement'):
+            if obj_type.endswith(mode):
+                material = obj_data['material']['id']
+                G.add_node(uid, color='pink')
+                G.add_edge(uid, material)
+                
+            
     G_bis = nx.nx_agraph.to_agraph(G)
     G_bis.layout(prog="dot")
     uid_path = os.path.join(dirpath, 'uid_graph.png')
