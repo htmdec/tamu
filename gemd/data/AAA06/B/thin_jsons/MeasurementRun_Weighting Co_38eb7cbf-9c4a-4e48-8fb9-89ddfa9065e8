@@ -1,0 +1,24 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "material": {
+      "id": "6c038f34-f91c-4b21-a6cb-5e3dacd33b6f",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Weighting Co",
+   "notes": null,
+   "parameters": [],
+   "properties": [],
+   "source": null,
+   "spec": {
+      "id": "7fb5ce1d-c87c-4bdb-84c3-f4a25b9a6e51",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "measurement_run",
+   "uids": {
+      "auto": "38eb7cbf-9c4a-4e48-8fb9-89ddfa9065e8"
+   }
+}

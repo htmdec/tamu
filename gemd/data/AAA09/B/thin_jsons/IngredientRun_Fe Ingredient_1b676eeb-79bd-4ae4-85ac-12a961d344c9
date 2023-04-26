@@ -1,0 +1,30 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "0ca8f4c3-494d-41de-a3a1-acfe9cc773cc",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Fe Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "3d2564cc-32a6-435c-bd35-7025abf86f98",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "8e966578-55e9-4b57-9976-b2ed41e6c30c",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "1b676eeb-79bd-4ae4-85ac-12a961d344c9"
+   },
+   "volume_fraction": null
+}

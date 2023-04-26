@@ -1,0 +1,15 @@
+{
+   "bounds": {
+      "default_units": "dimensionless",
+      "lower_bound": 0,
+      "type": "real_bounds",
+      "upper_bound": 100
+   },
+   "description": "Percentage of the total composition that V takes",
+   "name": "V",
+   "tags": [],
+   "type": "property_template",
+   "uids": {
+      "auto": "438ec22f-7066-4fc2-874d-22903b861de1"
+   }
+}

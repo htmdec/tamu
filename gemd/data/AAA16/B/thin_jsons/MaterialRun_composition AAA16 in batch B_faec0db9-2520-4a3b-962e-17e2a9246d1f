@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "composition AAA16 in batch B",
+   "notes": null,
+   "process": {
+      "id": "1b8068c0-6048-4d8c-8bd6-446b7094a0de",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": null,
+   "spec": {
+      "id": "a4a5ebeb-a318-4caa-9adc-fd5d192b0fc1",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "A::A::A::1::6",
+      "2::2::0::9",
+      "B"
+   ],
+   "type": "material_run",
+   "uids": {
+      "auto": "faec0db9-2520-4a3b-962e-17e2a9246d1f"
+   }
+}

@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Forged AAA11 Alloy (Batch B)",
+   "notes": null,
+   "process": {
+      "id": "3a744ff3-932c-42b4-b96f-d09920c448aa",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [],
+   "template": {
+      "id": "7d1dcd69-9d51-414f-8897-1ca4a3482f4d",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "8390ea73-c92e-48c8-baf6-08bb022e5c5c"
+   }
+}

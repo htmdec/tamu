@@ -1,0 +1,25 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "8390ea73-c92e-48c8-baf6-08bb022e5c5c",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Forged AAA11 Alloy (Batch B) Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "70880bcf-ad5f-4609-9a66-0fa0dd9699a4",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_spec",
+   "uids": {
+      "auto": "5f5228c8-6542-47e5-83cd-03fd82eea4b5"
+   },
+   "volume_fraction": null
+}

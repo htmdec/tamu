@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Homogenized AAA02 Alloy (Batch B)",
+   "notes": null,
+   "process": {
+      "id": "8a7a0653-94dd-4475-9c5c-1230980e3b9b",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": null,
+   "spec": {
+      "id": "c1d235da-99af-424b-887d-661f1668861b",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "d4b0f4f3-6b22-4fd6-8bf5-aab3cecfd868"
+   }
+}

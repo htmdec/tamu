@@ -1,0 +1,25 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "73abf795-8045-443c-bd7d-c3770bd9024d",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "AAA13 Alloy (Batch B) Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "52b3f6be-ce24-4ceb-aa9a-39a08ced952a",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_spec",
+   "uids": {
+      "auto": "ecce879c-9a72-49b0-bac5-3d317755d97f"
+   },
+   "volume_fraction": null
+}

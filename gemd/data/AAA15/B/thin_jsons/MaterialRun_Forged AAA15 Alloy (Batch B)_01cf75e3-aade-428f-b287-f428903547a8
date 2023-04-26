@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Forged AAA15 Alloy (Batch B)",
+   "notes": null,
+   "process": {
+      "id": "e6b90d2e-d6f3-494b-b01d-9f144a4fc26c",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": null,
+   "spec": {
+      "id": "cc99796c-074d-4d2f-b16c-83b7689c1355",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "01cf75e3-aade-428f-b287-f428903547a8"
+   }
+}

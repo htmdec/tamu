@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Forged AAA05 Alloy (Batch B)",
+   "notes": null,
+   "process": {
+      "id": "32165b3c-f450-46f3-900b-505461a0bd9e",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [],
+   "template": {
+      "id": "7d1dcd69-9d51-414f-8897-1ca4a3482f4d",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "f55ae9ce-04e7-4174-ae21-fb4d72d5f52c"
+   }
+}

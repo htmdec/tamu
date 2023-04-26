@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "V",
+   "notes": null,
+   "process": {
+      "id": "d3a45681-db22-447c-b016-6168d71b51e2",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": null,
+   "spec": {
+      "id": "5c48e2e4-40ac-4346-a77a-6f7eaf80ce4a",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "32bc4058-6dec-4b95-a646-d4b217af7152"
+   }
+}

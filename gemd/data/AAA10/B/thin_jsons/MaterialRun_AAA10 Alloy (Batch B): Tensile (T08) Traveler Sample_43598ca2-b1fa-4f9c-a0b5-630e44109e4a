@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "AAA10 Alloy (Batch B): Tensile (T08) Traveler Sample",
+   "notes": null,
+   "process": {
+      "id": "f6b91a07-3ff2-4115-8d41-027bd43db5aa",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": null,
+   "spec": {
+      "id": "7bdb0253-6c07-4188-8cde-52e509403012",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "43598ca2-b1fa-4f9c-a0b5-630e44109e4a"
+   }
+}

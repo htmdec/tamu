@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Homogenized AAA12 Alloy (Batch B)",
+   "notes": null,
+   "process": {
+      "id": "55e18c20-7d9b-4f53-b6c5-080b23885d0b",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [],
+   "template": {
+      "id": "7d1dcd69-9d51-414f-8897-1ca4a3482f4d",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "b9e52d61-72ac-4a27-96ea-4e94c44d38cc"
+   }
+}

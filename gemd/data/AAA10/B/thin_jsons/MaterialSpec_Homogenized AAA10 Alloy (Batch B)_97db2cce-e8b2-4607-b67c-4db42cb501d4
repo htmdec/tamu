@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Homogenized AAA10 Alloy (Batch B)",
+   "notes": null,
+   "process": {
+      "id": "2e809516-ea23-4b66-bbf4-7835df31e73d",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [],
+   "template": {
+      "id": "7d1dcd69-9d51-414f-8897-1ca4a3482f4d",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "97db2cce-e8b2-4607-b67c-4db42cb501d4"
+   }
+}

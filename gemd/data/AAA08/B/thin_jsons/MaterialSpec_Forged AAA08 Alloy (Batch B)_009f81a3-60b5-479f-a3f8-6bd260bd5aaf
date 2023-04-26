@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Forged AAA08 Alloy (Batch B)",
+   "notes": null,
+   "process": {
+      "id": "04c1b773-af2c-422f-9567-4c70c1a2a7d4",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [],
+   "template": {
+      "id": "7d1dcd69-9d51-414f-8897-1ca4a3482f4d",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "009f81a3-60b5-479f-a3f8-6bd260bd5aaf"
+   }
+}

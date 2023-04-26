@@ -1,0 +1,13 @@
+{
+   "allowed_labels": [],
+   "allowed_names": [],
+   "conditions": [],
+   "description": "Setting traveler\n                ",
+   "name": "Setting traveler",
+   "parameters": [],
+   "tags": [],
+   "type": "process_template",
+   "uids": {
+      "auto": "1e2c721b-7f0c-415f-a9cf-b0158a466b3f"
+   }
+}

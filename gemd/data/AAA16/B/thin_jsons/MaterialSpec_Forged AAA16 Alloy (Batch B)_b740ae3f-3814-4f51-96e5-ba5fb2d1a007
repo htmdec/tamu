@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Forged AAA16 Alloy (Batch B)",
+   "notes": null,
+   "process": {
+      "id": "7e540869-6eba-46d2-b91c-d8b078a06305",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [],
+   "template": {
+      "id": "7d1dcd69-9d51-414f-8897-1ca4a3482f4d",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "b740ae3f-3814-4f51-96e5-ba5fb2d1a007"
+   }
+}

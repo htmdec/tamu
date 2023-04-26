@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Co",
+   "notes": null,
+   "process": {
+      "id": "7d0eb0ed-1d9f-424d-8c4b-71410daae073",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": null,
+   "spec": {
+      "id": "39a3718e-92a2-4940-b191-4c00e3265392",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "5ddd2d4d-5c41-4e37-a0cd-c29eadb307e7"
+   }
+}

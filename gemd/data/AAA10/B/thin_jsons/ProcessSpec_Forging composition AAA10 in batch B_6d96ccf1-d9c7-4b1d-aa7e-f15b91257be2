@@ -1,0 +1,17 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Forging composition AAA10 in batch B",
+   "notes": null,
+   "parameters": [],
+   "tags": [],
+   "template": {
+      "id": "94cca1fe-9c15-488d-b5d0-c36c27b43509",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "6d96ccf1-d9c7-4b1d-aa7e-f15b91257be2"
+   }
+}

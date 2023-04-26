@@ -1,0 +1,10 @@
+{
+   "description": "Individual ingredient of a composition",
+   "name": "Composition Element",
+   "properties": [],
+   "tags": [],
+   "type": "material_template",
+   "uids": {
+      "auto": "f433d0c4-9b0d-4e04-96b7-404e1bef13bb"
+   }
+}

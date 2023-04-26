@@ -1,0 +1,30 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "f3ef2239-3b15-4368-b868-a8c12aeaa3f9",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "composition AAA11 in batch B Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "e875eaa5-d598-46e8-865f-d7a0fb0bc398",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "551dd915-b9bc-4dbb-a7ce-1be52f46b474",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "39efa504-b4e7-42db-a698-3dd3a291964f"
+   },
+   "volume_fraction": null
+}
