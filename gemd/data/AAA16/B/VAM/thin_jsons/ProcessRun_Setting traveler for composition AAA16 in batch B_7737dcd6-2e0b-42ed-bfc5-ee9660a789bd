@@ -1,0 +1,18 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Setting traveler for composition AAA16 in batch B",
+   "notes": null,
+   "parameters": [],
+   "source": null,
+   "spec": {
+      "id": "49201f74-f583-4651-aeb7-ed6263d5db31",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "process_run",
+   "uids": {
+      "auto": "7737dcd6-2e0b-42ed-bfc5-ee9660a789bd"
+   }
+}

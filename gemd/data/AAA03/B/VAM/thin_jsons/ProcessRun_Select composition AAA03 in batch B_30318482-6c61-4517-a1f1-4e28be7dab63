@@ -1,0 +1,22 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Select composition AAA03 in batch B",
+   "notes": null,
+   "parameters": [],
+   "source": null,
+   "spec": {
+      "id": "58c73079-59fb-40ae-8764-b077b6114c51",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "A::A::A::0::3",
+      "2::2::0::9",
+      "B"
+   ],
+   "type": "process_run",
+   "uids": {
+      "auto": "30318482-6c61-4517-a1f1-4e28be7dab63"
+   }
+}

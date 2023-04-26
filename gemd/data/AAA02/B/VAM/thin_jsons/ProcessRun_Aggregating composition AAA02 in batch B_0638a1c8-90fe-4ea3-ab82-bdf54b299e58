@@ -1,0 +1,22 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Aggregating composition AAA02 in batch B",
+   "notes": null,
+   "parameters": [],
+   "source": null,
+   "spec": {
+      "id": "3c6e3cdd-86ac-41b6-a2da-0bd9e5d86b87",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "A::A::A::0::2",
+      "2::2::0::9",
+      "B"
+   ],
+   "type": "process_run",
+   "uids": {
+      "auto": "0638a1c8-90fe-4ea3-ab82-bdf54b299e58"
+   }
+}

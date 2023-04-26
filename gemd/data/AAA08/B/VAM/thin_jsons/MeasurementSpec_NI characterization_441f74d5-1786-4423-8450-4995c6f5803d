@@ -1,0 +1,17 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "NI characterization",
+   "notes": null,
+   "parameters": [],
+   "tags": [],
+   "template": {
+      "id": "ff3741aa-a208-48c7-9916-40a12052f8d8",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "measurement_spec",
+   "uids": {
+      "auto": "441f74d5-1786-4423-8450-4995c6f5803d"
+   }
+}

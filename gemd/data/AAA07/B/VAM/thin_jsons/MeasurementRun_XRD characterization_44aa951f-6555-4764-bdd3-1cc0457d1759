@@ -1,0 +1,24 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "material": {
+      "id": "acce0244-d9c4-4421-8da4-a1f793adfe40",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "XRD characterization",
+   "notes": null,
+   "parameters": [],
+   "properties": [],
+   "source": null,
+   "spec": {
+      "id": "a0e825b9-9801-4b35-9242-b34dcc4d0d8b",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "measurement_run",
+   "uids": {
+      "auto": "44aa951f-6555-4764-bdd3-1cc0457d1759"
+   }
+}

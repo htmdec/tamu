@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "AAA15 Alloy (Batch B)",
+   "notes": null,
+   "process": {
+      "id": "0e04ceb7-56f4-4ddd-9653-7c4e389c305a",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": null,
+   "spec": {
+      "id": "00f4fec9-c5f3-4a1a-b82f-c7ecc41ad55b",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "d55f8ade-6dfe-4e4f-8229-ef862a2322e4"
+   }
+}

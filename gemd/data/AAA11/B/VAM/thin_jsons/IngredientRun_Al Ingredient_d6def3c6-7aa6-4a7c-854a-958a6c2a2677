@@ -1,0 +1,30 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "89fba1a7-5067-4990-ab9c-a9efcb82224a",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Al Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "1f65a27a-193a-4c99-b642-f0935929b930",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "51549e37-c757-4810-a1f8-20ca1841047c",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "d6def3c6-7aa6-4a7c-854a-958a6c2a2677"
+   },
+   "volume_fraction": null
+}

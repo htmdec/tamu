@@ -1,0 +1,17 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Arc melting of composition AAA12 in batch B",
+   "notes": null,
+   "parameters": [],
+   "tags": [],
+   "template": {
+      "id": "af6cd83f-e7a6-4ef9-bf7f-83d4581d4f52",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "d23932f9-a683-4e22-ab30-0f5c5631634b"
+   }
+}

@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "AAA14 Alloy (Batch B): Traveler",
+   "notes": null,
+   "process": {
+      "id": "6197eadf-7cee-403e-a8f9-8cd074efc941",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": null,
+   "spec": {
+      "id": "c5e5da5e-39b8-4231-b74e-01f9925e6102",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "1789dc0f-5294-47a5-ac20-642339c712ec"
+   }
+}

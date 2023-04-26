@@ -1,0 +1,24 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "material": {
+      "id": "f9ec0356-fb0c-4a71-bb14-51251f171314",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Tensile characterization",
+   "notes": null,
+   "parameters": [],
+   "properties": [],
+   "source": null,
+   "spec": {
+      "id": "7ba8155b-7333-4aaf-b700-cdd82a5c3457",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "measurement_run",
+   "uids": {
+      "auto": "5abde7e3-0cba-47f9-ac28-bbde410f34bb"
+   }
+}

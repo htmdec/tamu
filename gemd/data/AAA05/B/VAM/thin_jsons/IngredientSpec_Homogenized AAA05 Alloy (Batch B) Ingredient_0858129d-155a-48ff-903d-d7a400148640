@@ -1,0 +1,25 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "6fd34107-70fb-4d6f-8fba-28ed8c226247",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Homogenized AAA05 Alloy (Batch B) Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "927e03d5-268e-43df-a8f3-d2fecceaa723",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_spec",
+   "uids": {
+      "auto": "0858129d-155a-48ff-903d-d7a400148640"
+   },
+   "volume_fraction": null
+}

@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "AAA07 Alloy (Batch B): NI (T04) Traveler Sample",
+   "notes": null,
+   "process": {
+      "id": "efa130bc-0bb8-434b-a5be-d09bf6b0250b",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": null,
+   "spec": {
+      "id": "c5bf57ad-aa7f-437e-8368-4b18b67c4738",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "4084a72a-7961-4535-b531-657bcb79ed88"
+   }
+}

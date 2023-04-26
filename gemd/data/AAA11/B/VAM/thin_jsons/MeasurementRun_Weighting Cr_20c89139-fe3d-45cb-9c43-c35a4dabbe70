@@ -1,0 +1,24 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "material": {
+      "id": "faf654d8-e8f3-458f-a731-2e47877b9bd9",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Weighting Cr",
+   "notes": null,
+   "parameters": [],
+   "properties": [],
+   "source": null,
+   "spec": {
+      "id": "d98bea3e-7450-48f4-9a2f-0409b9601061",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "measurement_run",
+   "uids": {
+      "auto": "20c89139-fe3d-45cb-9c43-c35a4dabbe70"
+   }
+}

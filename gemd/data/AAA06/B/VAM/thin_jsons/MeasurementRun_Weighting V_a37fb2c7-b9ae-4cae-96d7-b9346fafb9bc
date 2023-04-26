@@ -1,0 +1,24 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "material": {
+      "id": "e5b40743-b222-4343-bd2d-616e92214469",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Weighting V",
+   "notes": null,
+   "parameters": [],
+   "properties": [],
+   "source": null,
+   "spec": {
+      "id": "6afa3d2f-4daa-4b81-914d-7ff26c863934",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "measurement_run",
+   "uids": {
+      "auto": "a37fb2c7-b9ae-4cae-96d7-b9346fafb9bc"
+   }
+}

@@ -1,0 +1,24 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "material": {
+      "id": "665da4e5-6a63-45ac-a92e-6b27720b46a5",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Weighting Al",
+   "notes": null,
+   "parameters": [],
+   "properties": [],
+   "source": null,
+   "spec": {
+      "id": "7a073c01-f328-4d93-9d3f-61b22f5cdd33",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "measurement_run",
+   "uids": {
+      "auto": "b69be0bd-3aba-4c5a-9d5c-378b62686a44"
+   }
+}

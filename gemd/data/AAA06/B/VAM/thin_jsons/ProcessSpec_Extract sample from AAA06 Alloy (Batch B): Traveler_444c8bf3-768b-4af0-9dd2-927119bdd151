@@ -1,0 +1,17 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Extract sample from AAA06 Alloy (Batch B): Traveler",
+   "notes": null,
+   "parameters": [],
+   "tags": [],
+   "template": {
+      "id": "e495a7fb-ecb0-4389-861b-160d9aa6b5d9",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "444c8bf3-768b-4af0-9dd2-927119bdd151"
+   }
+}

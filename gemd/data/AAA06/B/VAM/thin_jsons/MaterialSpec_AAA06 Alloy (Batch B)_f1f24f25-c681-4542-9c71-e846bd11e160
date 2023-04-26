@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "AAA06 Alloy (Batch B)",
+   "notes": null,
+   "process": {
+      "id": "ed5287ea-bd37-44d9-9692-13a7b1c6f342",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [],
+   "template": {
+      "id": "7d1dcd69-9d51-414f-8897-1ca4a3482f4d",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "f1f24f25-c681-4542-9c71-e846bd11e160"
+   }
+}

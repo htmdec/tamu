@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Al",
+   "notes": null,
+   "process": {
+      "id": "1038915a-66f9-4073-8da7-1c08d2f3bfc5",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": null,
+   "spec": {
+      "id": "be902d19-cd7c-498e-8bf0-c48a356c81a6",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "5037c335-355a-42e8-a2e9-8fbb49a37c8c"
+   }
+}

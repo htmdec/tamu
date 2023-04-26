@@ -1,0 +1,30 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "826c093c-c00b-4d0d-8bd6-e77b8c7a0127",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Homogenized AAA10 Alloy (Batch B) Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "8c240155-e4bf-4c86-9158-f5bb18203494",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "bb32075e-bb45-4a70-aef6-4d701cb2cdb4",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "a9883597-c1d6-4107-9a7b-37300df4ce38"
+   },
+   "volume_fraction": null
+}

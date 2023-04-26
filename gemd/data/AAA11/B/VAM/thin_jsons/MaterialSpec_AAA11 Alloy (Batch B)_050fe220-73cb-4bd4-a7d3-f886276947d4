@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "AAA11 Alloy (Batch B)",
+   "notes": null,
+   "process": {
+      "id": "636f24b8-4469-499c-b573-247dc4a9334b",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [],
+   "template": {
+      "id": "7d1dcd69-9d51-414f-8897-1ca4a3482f4d",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "050fe220-73cb-4bd4-a7d3-f886276947d4"
+   }
+}

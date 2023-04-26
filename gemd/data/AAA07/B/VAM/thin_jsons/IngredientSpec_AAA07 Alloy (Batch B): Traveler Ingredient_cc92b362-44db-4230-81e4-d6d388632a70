@@ -1,0 +1,25 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "ea07accb-ce4f-4abf-8c6e-756e819525ce",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "AAA07 Alloy (Batch B): Traveler Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "f5158385-20a2-447c-a134-c20a0884b582",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_spec",
+   "uids": {
+      "auto": "cc92b362-44db-4230-81e4-d6d388632a70"
+   },
+   "volume_fraction": null
+}

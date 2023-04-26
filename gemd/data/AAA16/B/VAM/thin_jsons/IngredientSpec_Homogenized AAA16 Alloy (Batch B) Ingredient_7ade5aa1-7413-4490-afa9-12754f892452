@@ -1,0 +1,25 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "7018f8ca-c977-4321-bda2-bd34a73fae4b",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Homogenized AAA16 Alloy (Batch B) Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "631460b3-78d8-41d4-b2e4-3f471a85388f",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_spec",
+   "uids": {
+      "auto": "7ade5aa1-7413-4490-afa9-12754f892452"
+   },
+   "volume_fraction": null
+}

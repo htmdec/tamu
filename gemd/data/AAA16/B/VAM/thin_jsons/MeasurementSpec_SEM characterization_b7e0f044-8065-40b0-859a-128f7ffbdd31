@@ -1,0 +1,17 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "SEM characterization",
+   "notes": null,
+   "parameters": [],
+   "tags": [],
+   "template": {
+      "id": "a5b7f4c7-5c7e-45e5-953f-fd56079dec67",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "measurement_spec",
+   "uids": {
+      "auto": "b7e0f044-8065-40b0-859a-128f7ffbdd31"
+   }
+}

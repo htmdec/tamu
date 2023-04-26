@@ -1,0 +1,25 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "f3884de2-c8bd-42aa-993d-93dcf7136946",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Arc Melted AAA03 Alloy (Batch B) Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "957c67f9-845d-438b-a035-96519c45225f",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_spec",
+   "uids": {
+      "auto": "b58c893f-a74a-484f-8ecb-fb100b605d2d"
+   },
+   "volume_fraction": null
+}

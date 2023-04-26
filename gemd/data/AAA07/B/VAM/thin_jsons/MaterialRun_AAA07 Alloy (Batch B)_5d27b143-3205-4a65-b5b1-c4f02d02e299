@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "AAA07 Alloy (Batch B)",
+   "notes": null,
+   "process": {
+      "id": "1b040159-1548-41f8-ae9e-0d8539ef2785",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": null,
+   "spec": {
+      "id": "5ce66b2c-cf0b-4c98-8efa-fc845043968d",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "5d27b143-3205-4a65-b5b1-c4f02d02e299"
+   }
+}

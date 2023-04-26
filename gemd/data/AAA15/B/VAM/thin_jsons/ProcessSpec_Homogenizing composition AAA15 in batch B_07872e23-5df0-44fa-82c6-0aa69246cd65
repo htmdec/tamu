@@ -1,0 +1,17 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Homogenizing composition AAA15 in batch B",
+   "notes": null,
+   "parameters": [],
+   "tags": [],
+   "template": {
+      "id": "63c7b3c7-42a7-4d87-99e9-984598cc8c94",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "07872e23-5df0-44fa-82c6-0aa69246cd65"
+   }
+}

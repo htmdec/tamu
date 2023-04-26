@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "AAA07 Alloy (Batch B): Traveler",
+   "notes": null,
+   "process": {
+      "id": "946d3c33-3fd2-4230-a829-ddad3ff010b7",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [],
+   "template": {
+      "id": "5cb1a904-a02a-4b1a-b0d5-3be1051d81e4",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "ea07accb-ce4f-4abf-8c6e-756e819525ce"
+   }
+}

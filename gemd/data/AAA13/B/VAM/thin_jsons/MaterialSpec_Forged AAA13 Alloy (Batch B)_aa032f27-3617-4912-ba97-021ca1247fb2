@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Forged AAA13 Alloy (Batch B)",
+   "notes": null,
+   "process": {
+      "id": "707949df-7d8b-4059-88c3-05f3b50f60c3",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [],
+   "template": {
+      "id": "7d1dcd69-9d51-414f-8897-1ca4a3482f4d",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "aa032f27-3617-4912-ba97-021ca1247fb2"
+   }
+}

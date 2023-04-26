@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "AAA04 Alloy (Batch B): XRD (T02) Traveler Sample",
+   "notes": null,
+   "process": {
+      "id": "87bd5440-89eb-49e5-8a78-815638c9e454",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [],
+   "template": {
+      "id": "f072cd09-c463-4678-8744-aaf3535c7af1",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "55988f84-70bf-4096-85e5-d18b12fa9016"
+   }
+}

@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "AAA15 Alloy (Batch B): SEM (T02) Traveler Sample",
+   "notes": null,
+   "process": {
+      "id": "7882571a-a635-4994-8cab-5204610bf6b0",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": null,
+   "spec": {
+      "id": "23e4f08d-3d57-46c8-8d08-45507f3e4c26",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "115d7fcd-7a50-41d8-a415-00e601c56735"
+   }
+}

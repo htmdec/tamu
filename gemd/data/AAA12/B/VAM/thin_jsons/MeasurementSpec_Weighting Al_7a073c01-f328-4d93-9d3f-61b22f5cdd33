@@ -1,0 +1,17 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Weighting Al",
+   "notes": null,
+   "parameters": [],
+   "tags": [],
+   "template": {
+      "id": "cec975a9-8dad-4ab4-b870-1fc056ac3593",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "measurement_spec",
+   "uids": {
+      "auto": "7a073c01-f328-4d93-9d3f-61b22f5cdd33"
+   }
+}

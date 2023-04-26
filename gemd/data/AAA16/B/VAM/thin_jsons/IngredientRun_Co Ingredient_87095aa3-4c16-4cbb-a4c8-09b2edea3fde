@@ -1,0 +1,30 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "fbfb251f-6ad1-46b1-b84a-777ff7e159f7",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Co Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "0e084957-bfa6-4d35-9d4d-1ea0a9605b64",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "5670580f-9631-4c98-bccd-60c2f97197f2",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "87095aa3-4c16-4cbb-a4c8-09b2edea3fde"
+   },
+   "volume_fraction": null
+}

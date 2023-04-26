@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Forged AAA01 Alloy (Batch B)",
+   "notes": null,
+   "process": {
+      "id": "99dc1391-95ef-487c-9783-c39524fe56d9",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [],
+   "template": {
+      "id": "7d1dcd69-9d51-414f-8897-1ca4a3482f4d",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "5c925aa2-7913-4e59-8512-a92f9c0fa15f"
+   }
+}

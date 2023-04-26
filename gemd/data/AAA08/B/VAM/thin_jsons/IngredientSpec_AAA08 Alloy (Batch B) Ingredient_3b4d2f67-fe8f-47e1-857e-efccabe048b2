@@ -1,0 +1,25 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "49084402-884f-4d76-ae61-b0c0fb602281",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "AAA08 Alloy (Batch B) Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "6e1d93a3-be52-40f6-9258-477f8c097f36",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_spec",
+   "uids": {
+      "auto": "3b4d2f67-fe8f-47e1-857e-efccabe048b2"
+   },
+   "volume_fraction": null
+}

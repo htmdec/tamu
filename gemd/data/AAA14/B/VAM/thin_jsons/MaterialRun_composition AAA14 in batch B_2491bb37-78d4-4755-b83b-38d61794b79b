@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "composition AAA14 in batch B",
+   "notes": null,
+   "process": {
+      "id": "1e4f8f25-2559-4e69-9850-c2a3f0a2145d",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": null,
+   "spec": {
+      "id": "8e51ed5d-dff3-4352-9ee5-a71ace5788af",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "A::A::A::1::4",
+      "2::2::0::9",
+      "B"
+   ],
+   "type": "material_run",
+   "uids": {
+      "auto": "2491bb37-78d4-4755-b83b-38d61794b79b"
+   }
+}

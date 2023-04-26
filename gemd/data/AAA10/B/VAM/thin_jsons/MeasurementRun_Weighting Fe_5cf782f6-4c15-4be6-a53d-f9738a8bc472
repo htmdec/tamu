@@ -1,0 +1,24 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "material": {
+      "id": "4efa628f-94a8-4058-bff8-b70de7483eff",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Weighting Fe",
+   "notes": null,
+   "parameters": [],
+   "properties": [],
+   "source": null,
+   "spec": {
+      "id": "ada8f562-fa9a-4832-ba15-c1e8dc2f1519",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "measurement_run",
+   "uids": {
+      "auto": "5cf782f6-4c15-4be6-a53d-f9738a8bc472"
+   }
+}

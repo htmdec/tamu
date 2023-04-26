@@ -1,0 +1,24 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "material": {
+      "id": "acc28998-5331-472d-8cd0-88cbb7e65557",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Weighting Ni",
+   "notes": null,
+   "parameters": [],
+   "properties": [],
+   "source": null,
+   "spec": {
+      "id": "37638c4d-152a-4435-977c-eaefff07682a",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "measurement_run",
+   "uids": {
+      "auto": "137cad4c-aba4-4c5c-b08f-747b7906b7b8"
+   }
+}

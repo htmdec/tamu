@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Arc Melted AAA06 Alloy (Batch B)",
+   "notes": null,
+   "process": {
+      "id": "1fbb72a4-55b3-4f3c-b57d-97b2b342ea47",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [],
+   "template": {
+      "id": "7d1dcd69-9d51-414f-8897-1ca4a3482f4d",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "7026bd6f-d6a0-4757-8c5a-eb5ea104c405"
+   }
+}

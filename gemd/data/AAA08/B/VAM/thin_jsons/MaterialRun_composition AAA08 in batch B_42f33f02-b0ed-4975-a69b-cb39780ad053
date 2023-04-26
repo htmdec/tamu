@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "composition AAA08 in batch B",
+   "notes": null,
+   "process": {
+      "id": "5e5b9310-3c59-46d2-ac44-daa126d22109",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": null,
+   "spec": {
+      "id": "33fc4e77-f4a1-4247-a776-efb82053540b",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "A::A::A::0::8",
+      "2::2::0::9",
+      "B"
+   ],
+   "type": "material_run",
+   "uids": {
+      "auto": "42f33f02-b0ed-4975-a69b-cb39780ad053"
+   }
+}

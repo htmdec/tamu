@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Arc Melted AAA10 Alloy (Batch B)",
+   "notes": null,
+   "process": {
+      "id": "161bf235-d42d-4c88-ac02-cbc497d5e9f2",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [],
+   "template": {
+      "id": "7d1dcd69-9d51-414f-8897-1ca4a3482f4d",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "e63c0924-9e6c-4acb-888e-96c0402d6e81"
+   }
+}
