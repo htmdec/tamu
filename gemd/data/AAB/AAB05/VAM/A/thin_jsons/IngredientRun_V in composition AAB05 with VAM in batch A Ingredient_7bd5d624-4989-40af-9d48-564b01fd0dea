@@ -1,0 +1,30 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "4812ca65-ba80-43ed-8ade-047a310e15dd",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "V in composition AAB05 with VAM in batch A Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "f4aeaaf0-aa8c-47f9-8084-dad4a9178ed4",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "7d002bef-e497-4df7-89d7-aac243f9549b",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "7bd5d624-4989-40af-9d48-564b01fd0dea"
+   },
+   "volume_fraction": null
+}

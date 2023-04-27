@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Cr in composition AAB11 with VAM in batch A",
+   "notes": null,
+   "process": {
+      "id": "c6b15e51-e78f-404a-b40b-fc776e4e29da",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [],
+   "template": {
+      "id": "c6c47763-87bd-49b9-8bd2-63e1ac9e7dd6",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "c3c039a7-8eb2-426a-aec5-b091daa800b3"
+   }
+}

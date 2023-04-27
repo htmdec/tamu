@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Summary sheet",
+   "notes": null,
+   "process": {
+      "id": "12c87aab-a4dd-4c69-85eb-292dcbb8ac2a",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": null,
+   "spec": {
+      "id": "4d976ef1-cc33-499c-8ed6-6a65380239ed",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "8453e9a4-03fb-479b-bc65-9ac92b24e532"
+   }
+}

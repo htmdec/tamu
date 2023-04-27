@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Al in composition AAB15 with VAM in batch A",
+   "notes": null,
+   "process": {
+      "id": "28d59a0f-9c97-4ad0-8b6c-e7eecd4f74c9",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": null,
+   "spec": {
+      "id": "0168e1ad-f828-4a2a-83aa-55c416b75c8e",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "ccc11249-7536-473b-a213-2fbfe74cb491"
+   }
+}
