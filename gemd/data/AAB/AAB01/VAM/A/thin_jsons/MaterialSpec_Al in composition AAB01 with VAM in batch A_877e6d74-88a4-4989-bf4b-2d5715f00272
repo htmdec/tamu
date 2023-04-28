@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Al in composition AAB01 with VAM in batch A",
+   "notes": null,
+   "process": {
+      "id": "d51e4381-0a3e-456a-9491-e18bcbaddad8",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [],
+   "template": {
+      "id": "8b3f306b-c383-45f3-a060-3fa51f099ce4",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "877e6d74-88a4-4989-bf4b-2d5715f00272"
+   }
+}
