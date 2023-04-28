@@ -1,0 +1,24 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "material": {
+      "id": "78824ea0-e71c-4d1c-9bf4-17880a74e1a0",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Weighting V for composition AAB10 with VAM in batch A",
+   "notes": null,
+   "parameters": [],
+   "properties": [],
+   "source": null,
+   "spec": {
+      "id": "47982256-343f-465b-943d-29ddef87ce08",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "measurement_run",
+   "uids": {
+      "auto": "93c7b5a8-6c64-4ca1-a301-b8468c570cef"
+   }
+}

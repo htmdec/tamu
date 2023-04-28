@@ -1,0 +1,18 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Arc melting of Alloy (composition AAB01 with VAM in batch A)",
+   "notes": null,
+   "parameters": [],
+   "source": null,
+   "spec": {
+      "id": "b4fe1595-51e0-4036-877c-1c585f58f2f2",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "process_run",
+   "uids": {
+      "auto": "a7a130a9-a8d3-45f9-a2cb-c4dde679a682"
+   }
+}

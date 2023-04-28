@@ -1,0 +1,18 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Forging Alloy (composition AAB13 with VAM in batch A)",
+   "notes": null,
+   "parameters": [],
+   "source": null,
+   "spec": {
+      "id": "7d86aee7-fb43-49fc-9419-5bd1eab83dcf",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "process_run",
+   "uids": {
+      "auto": "3f0dda85-80e6-40f5-acf8-c6a5fe029d2d"
+   }
+}

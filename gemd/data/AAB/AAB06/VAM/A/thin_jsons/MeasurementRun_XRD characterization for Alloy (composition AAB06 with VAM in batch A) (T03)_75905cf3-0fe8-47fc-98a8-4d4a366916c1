@@ -1,0 +1,24 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "material": {
+      "id": "67663fbc-c28a-48b8-94ce-01dfcaade7e0",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "XRD characterization for Alloy (composition AAB06 with VAM in batch A) (T03)",
+   "notes": null,
+   "parameters": [],
+   "properties": [],
+   "source": null,
+   "spec": {
+      "id": "10a5a9d4-1923-4961-9dd2-db92e3342388",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "measurement_run",
+   "uids": {
+      "auto": "75905cf3-0fe8-47fc-98a8-4d4a366916c1"
+   }
+}

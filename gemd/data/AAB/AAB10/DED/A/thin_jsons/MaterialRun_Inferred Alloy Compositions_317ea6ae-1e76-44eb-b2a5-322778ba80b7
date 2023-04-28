@@ -1,0 +1,17 @@
+{
+   "file_links": [],
+   "name": "Inferred Alloy Compositions",
+   "notes": null,
+   "process": null,
+   "sample_type": null,
+   "spec": {
+      "id": "116d03e8-8e0a-4f74-926b-08059a729b2a",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "317ea6ae-1e76-44eb-b2a5-322778ba80b7"
+   }
+}

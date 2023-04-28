@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Homogenized Alloy (composition AAB14 with VAM in batch A)",
+   "notes": null,
+   "process": {
+      "id": "7a0bfcc4-bc5c-48eb-915f-8e1efce1ab89",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": null,
+   "spec": {
+      "id": "90b7d23d-fc48-4edc-8519-a6922e170952",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "3a85c491-de43-472a-8003-57f40ee3bb88"
+   }
+}

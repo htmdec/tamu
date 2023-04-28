@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Fe in composition AAB03 with VAM in batch A",
+   "notes": null,
+   "process": {
+      "id": "6dc9ffb5-06df-4303-aabc-99530d074e45",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [],
+   "template": {
+      "id": "8b3f306b-c383-45f3-a060-3fa51f099ce4",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "a02037fb-cb02-4923-808b-0afe600d9a20"
+   }
+}

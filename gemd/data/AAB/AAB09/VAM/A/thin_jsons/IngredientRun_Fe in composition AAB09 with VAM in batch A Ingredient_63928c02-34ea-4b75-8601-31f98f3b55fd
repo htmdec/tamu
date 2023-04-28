@@ -1,0 +1,30 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "eec95406-057d-4fb8-b663-e2bcc9f42b22",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Fe in composition AAB09 with VAM in batch A Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "6ff841eb-9dd1-4b9f-89fe-863bdce89f7a",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "deb5aa8f-8992-499d-a7f7-6f3a7ce17f7b",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "63928c02-34ea-4b75-8601-31f98f3b55fd"
+   },
+   "volume_fraction": null
+}

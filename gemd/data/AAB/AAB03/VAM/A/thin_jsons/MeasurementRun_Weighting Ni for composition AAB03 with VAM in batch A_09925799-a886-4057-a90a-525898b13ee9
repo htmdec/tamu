@@ -1,0 +1,24 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "material": {
+      "id": "8fa01e6f-2aa0-4835-91f6-c0d238735b41",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Weighting Ni for composition AAB03 with VAM in batch A",
+   "notes": null,
+   "parameters": [],
+   "properties": [],
+   "source": null,
+   "spec": {
+      "id": "0e6eed09-4bd5-4c64-a1c1-5825d04832f1",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "measurement_run",
+   "uids": {
+      "auto": "09925799-a886-4057-a90a-525898b13ee9"
+   }
+}

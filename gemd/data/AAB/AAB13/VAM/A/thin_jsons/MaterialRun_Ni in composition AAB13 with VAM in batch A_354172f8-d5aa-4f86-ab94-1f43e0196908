@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Ni in composition AAB13 with VAM in batch A",
+   "notes": null,
+   "process": {
+      "id": "ba2a76e5-b018-4134-92c4-1190c8646b60",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": null,
+   "spec": {
+      "id": "ac9ca816-50b0-435a-a39b-2143138f8930",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "354172f8-d5aa-4f86-ab94-1f43e0196908"
+   }
+}

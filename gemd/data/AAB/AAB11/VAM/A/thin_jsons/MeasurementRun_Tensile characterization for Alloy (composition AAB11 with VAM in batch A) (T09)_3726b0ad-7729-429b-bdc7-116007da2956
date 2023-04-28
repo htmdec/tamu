@@ -1,0 +1,24 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "material": {
+      "id": "2c7b1607-bd4e-438f-aeb7-1b5a93aef365",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Tensile characterization for Alloy (composition AAB11 with VAM in batch A) (T09)",
+   "notes": null,
+   "parameters": [],
+   "properties": [],
+   "source": null,
+   "spec": {
+      "id": "2e92af02-571a-4aba-8ba6-c5372dc5567e",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "measurement_run",
+   "uids": {
+      "auto": "3726b0ad-7729-429b-bdc7-116007da2956"
+   }
+}

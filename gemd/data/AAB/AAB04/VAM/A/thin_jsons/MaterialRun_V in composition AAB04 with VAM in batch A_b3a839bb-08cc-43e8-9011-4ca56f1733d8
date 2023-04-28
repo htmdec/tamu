@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "V in composition AAB04 with VAM in batch A",
+   "notes": null,
+   "process": {
+      "id": "b28f7ce1-9fd4-4d4f-b1a1-08af7d32ca54",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": null,
+   "spec": {
+      "id": "ae5d2143-7bb7-4e36-9fbe-d8b71f06274f",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "b3a839bb-08cc-43e8-9011-4ca56f1733d8"
+   }
+}

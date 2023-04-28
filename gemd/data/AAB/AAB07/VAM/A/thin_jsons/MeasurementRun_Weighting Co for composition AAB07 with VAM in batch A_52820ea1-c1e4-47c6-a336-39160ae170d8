@@ -1,0 +1,24 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "material": {
+      "id": "32091480-fe35-4827-b6ca-16a809435d40",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Weighting Co for composition AAB07 with VAM in batch A",
+   "notes": null,
+   "parameters": [],
+   "properties": [],
+   "source": null,
+   "spec": {
+      "id": "eea58d99-57b5-4b5d-812b-3935f5864fd4",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "measurement_run",
+   "uids": {
+      "auto": "52820ea1-c1e4-47c6-a336-39160ae170d8"
+   }
+}

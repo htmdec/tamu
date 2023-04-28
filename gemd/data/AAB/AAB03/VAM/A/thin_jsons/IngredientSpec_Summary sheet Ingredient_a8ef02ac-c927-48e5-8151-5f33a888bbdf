@@ -1,0 +1,21 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": null,
+   "name": "Summary sheet Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "cd3b5a9a-8051-45c1-916b-185b5dc61297",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_spec",
+   "uids": {
+      "auto": "a8ef02ac-c927-48e5-8151-5f33a888bbdf"
+   },
+   "volume_fraction": null
+}

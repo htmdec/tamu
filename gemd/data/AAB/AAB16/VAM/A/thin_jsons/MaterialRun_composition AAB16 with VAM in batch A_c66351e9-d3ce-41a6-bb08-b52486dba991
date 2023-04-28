@@ -1,0 +1,26 @@
+{
+   "file_links": [],
+   "name": "composition AAB16 with VAM in batch A",
+   "notes": null,
+   "process": {
+      "id": "6402e738-8c87-483a-9b10-17aaa2d09f44",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": null,
+   "spec": {
+      "id": "e7aec775-0c32-4012-bcc5-ec5a73dbf799",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "composition_id::AAB16",
+      "yymm::2211",
+      "batch::A",
+      "fabrication_method::VAM"
+   ],
+   "type": "material_run",
+   "uids": {
+      "auto": "c66351e9-d3ce-41a6-bb08-b52486dba991"
+   }
+}
