@@ -1,0 +1,84 @@
+{
+   "file_links": [
+      {
+         "filename": "root",
+         "type": "file_link",
+         "url": "../data/AAB/VAM/A/AAB06/T01"
+      },
+      {
+         "filename": "T06",
+         "type": "file_link",
+         "url": "../data/AAB/VAM/A/AAB06/T01/T06"
+      },
+      {
+         "filename": "T02",
+         "type": "file_link",
+         "url": "../data/AAB/VAM/A/AAB06/T01/T02"
+      },
+      {
+         "filename": "vam-synthesis-details-v1.json",
+         "type": "file_link",
+         "url": "../data/AAB/VAM/A/AAB06/T01/vam-synthesis-details-v1.json"
+      },
+      {
+         "filename": "T05",
+         "type": "file_link",
+         "url": "../data/AAB/VAM/A/AAB06/T01/T05"
+      },
+      {
+         "filename": "T07",
+         "type": "file_link",
+         "url": "../data/AAB/VAM/A/AAB06/T01/T07"
+      },
+      {
+         "filename": "vam-traveler-v1.json",
+         "type": "file_link",
+         "url": "../data/AAB/VAM/A/AAB06/T01/vam-traveler-v1.json"
+      },
+      {
+         "filename": "T04",
+         "type": "file_link",
+         "url": "../data/AAB/VAM/A/AAB06/T01/T04"
+      },
+      {
+         "filename": "vam-processing-details-v1.json",
+         "type": "file_link",
+         "url": "../data/AAB/VAM/A/AAB06/T01/vam-processing-details-v1.json"
+      },
+      {
+         "filename": "T03",
+         "type": "file_link",
+         "url": "../data/AAB/VAM/A/AAB06/T01/T03"
+      }
+   ],
+   "name": "composition AAB06 with VAM in batch A",
+   "notes": null,
+   "process": {
+      "id": "e5c361c5-4d6f-4cbd-aba6-7081d717e57a",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": null,
+   "spec": {
+      "id": "2701019b-2c25-493e-8c44-b4ffdffcb504",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "composition_id::AAB06",
+      "batch::A",
+      "fabrication_method::VAM",
+      "y::y::m::m",
+      "2::2::1::1",
+      "Co::30",
+      "Cr::20",
+      "Fe::5",
+      "Ni::40",
+      "V::5",
+      "Al::0"
+   ],
+   "type": "material_run",
+   "uids": {
+      "auto": "c1c81b17-2f45-4e41-9b09-ea3798d5bce5"
+   }
+}

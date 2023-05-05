@@ -1,0 +1,24 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Aggregating composition AAB10 with VAM in batch A",
+   "notes": null,
+   "parameters": [],
+   "source": null,
+   "spec": {
+      "id": "fdaae130-27a9-4561-a59a-5b7d6fe31495",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "composition_id::AAB10",
+      "batch::A",
+      "fabrication_method::VAM",
+      "y::y::m::m",
+      "2::2::1::1"
+   ],
+   "type": "process_run",
+   "uids": {
+      "auto": "50d74754-5ef6-4778-97bb-021527a2f86f"
+   }
+}

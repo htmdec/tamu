@@ -1,0 +1,24 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Aggregating composition AAB13 with VAM in batch A",
+   "notes": null,
+   "parameters": [],
+   "source": null,
+   "spec": {
+      "id": "01efb536-f10a-43a0-b800-235febba19f7",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "composition_id::AAB13",
+      "batch::A",
+      "fabrication_method::VAM",
+      "y::y::m::m",
+      "2::2::1::1"
+   ],
+   "type": "process_run",
+   "uids": {
+      "auto": "231fafa7-0031-42dc-85cd-2e5878856a59"
+   }
+}

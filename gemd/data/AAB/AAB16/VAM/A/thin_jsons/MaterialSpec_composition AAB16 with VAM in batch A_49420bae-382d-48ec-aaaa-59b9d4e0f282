@@ -1,0 +1,148 @@
+{
+   "file_links": [],
+   "name": "composition AAB16 with VAM in batch A",
+   "notes": null,
+   "process": {
+      "id": "fd674c64-bcbc-47e1-bd4b-e781d2a98548",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Al",
+            "notes": null,
+            "origin": "specified",
+            "template": {
+               "id": "aa5b745a-2ab5-42cf-8d34-64e7510af331",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "nominal": 0.0,
+               "type": "nominal_real",
+               "units": "dimensionless"
+            }
+         },
+         "type": "property_and_conditions"
+      },
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Cr",
+            "notes": null,
+            "origin": "specified",
+            "template": {
+               "id": "6a845428-b41c-42a6-98b2-93c4151288b8",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "nominal": 0.0,
+               "type": "nominal_real",
+               "units": "dimensionless"
+            }
+         },
+         "type": "property_and_conditions"
+      },
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Co",
+            "notes": null,
+            "origin": "specified",
+            "template": {
+               "id": "80735a66-9971-4157-bf4a-8de123bf7355",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "nominal": 0.0,
+               "type": "nominal_real",
+               "units": "dimensionless"
+            }
+         },
+         "type": "property_and_conditions"
+      },
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Fe",
+            "notes": null,
+            "origin": "specified",
+            "template": {
+               "id": "c2c40126-8099-4262-a580-cc6c11d1a690",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "nominal": 0.0,
+               "type": "nominal_real",
+               "units": "dimensionless"
+            }
+         },
+         "type": "property_and_conditions"
+      },
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Ni",
+            "notes": null,
+            "origin": "specified",
+            "template": {
+               "id": "bc2b5d07-4595-444e-ba77-757fde7b9735",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "nominal": 0.0,
+               "type": "nominal_real",
+               "units": "dimensionless"
+            }
+         },
+         "type": "property_and_conditions"
+      },
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "V",
+            "notes": null,
+            "origin": "specified",
+            "template": {
+               "id": "09fccd7a-1bf1-459a-a89c-884562f76519",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "nominal": 0.0,
+               "type": "nominal_real",
+               "units": "dimensionless"
+            }
+         },
+         "type": "property_and_conditions"
+      }
+   ],
+   "tags": [],
+   "template": {
+      "id": "75118387-fd7c-406b-9327-31ca9ada136c",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "49420bae-382d-48ec-aaaa-59b9d4e0f282"
+   }
+}

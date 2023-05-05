@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Co in composition AAB15 with VAM in batch A",
+   "notes": null,
+   "process": {
+      "id": "00f9eae3-9aab-4fdd-91c5-49218cb03b18",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": null,
+   "spec": {
+      "id": "d9ab29fb-abb4-4e07-a6f4-54f2bf9fe0a3",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "63ee5538-709c-49a0-9d58-27f7e9e0aebf"
+   }
+}

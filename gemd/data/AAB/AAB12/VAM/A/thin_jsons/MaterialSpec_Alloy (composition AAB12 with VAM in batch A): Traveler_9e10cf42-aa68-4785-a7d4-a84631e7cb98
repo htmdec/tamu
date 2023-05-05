@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Alloy (composition AAB12 with VAM in batch A): Traveler",
+   "notes": null,
+   "process": {
+      "id": "f9da0778-f4dc-440f-9782-76c5c464822a",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [],
+   "template": {
+      "id": "41740946-c1fd-4043-aac9-db3ded7ecdce",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "9e10cf42-aa68-4785-a7d4-a84631e7cb98"
+   }
+}

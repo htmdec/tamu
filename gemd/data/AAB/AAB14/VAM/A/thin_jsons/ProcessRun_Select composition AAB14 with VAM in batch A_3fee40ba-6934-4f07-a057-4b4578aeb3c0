@@ -1,0 +1,81 @@
+{
+   "conditions": [],
+   "file_links": [
+      {
+         "filename": "root",
+         "type": "file_link",
+         "url": "../data/AAB/VAM/A/AAB14/T01"
+      },
+      {
+         "filename": "T05",
+         "type": "file_link",
+         "url": "../data/AAB/VAM/A/AAB14/T01/T05"
+      },
+      {
+         "filename": "T02",
+         "type": "file_link",
+         "url": "../data/AAB/VAM/A/AAB14/T01/T02"
+      },
+      {
+         "filename": "T06",
+         "type": "file_link",
+         "url": "../data/AAB/VAM/A/AAB14/T01/T06"
+      },
+      {
+         "filename": "vam-processing-details-v1.json",
+         "type": "file_link",
+         "url": "../data/AAB/VAM/A/AAB14/T01/vam-processing-details-v1.json"
+      },
+      {
+         "filename": "T03",
+         "type": "file_link",
+         "url": "../data/AAB/VAM/A/AAB14/T01/T03"
+      },
+      {
+         "filename": "vam-synthesis-details-v1.json",
+         "type": "file_link",
+         "url": "../data/AAB/VAM/A/AAB14/T01/vam-synthesis-details-v1.json"
+      },
+      {
+         "filename": "T04",
+         "type": "file_link",
+         "url": "../data/AAB/VAM/A/AAB14/T01/T04"
+      },
+      {
+         "filename": "vam-traveler-v1.json",
+         "type": "file_link",
+         "url": "../data/AAB/VAM/A/AAB14/T01/vam-traveler-v1.json"
+      },
+      {
+         "filename": "T07",
+         "type": "file_link",
+         "url": "../data/AAB/VAM/A/AAB14/T01/T07"
+      }
+   ],
+   "name": "Select composition AAB14 with VAM in batch A",
+   "notes": null,
+   "parameters": [],
+   "source": null,
+   "spec": {
+      "id": "70ea913c-f3ac-41f4-9850-cf3406d2dc8f",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "composition_id::AAB14",
+      "batch::A",
+      "fabrication_method::VAM",
+      "y::y::m::m",
+      "2::2::1::1",
+      "Co::10",
+      "Cr::0",
+      "Fe::30",
+      "Ni::50",
+      "V::5",
+      "Al::5"
+   ],
+   "type": "process_run",
+   "uids": {
+      "auto": "3fee40ba-6934-4f07-a057-4b4578aeb3c0"
+   }
+}

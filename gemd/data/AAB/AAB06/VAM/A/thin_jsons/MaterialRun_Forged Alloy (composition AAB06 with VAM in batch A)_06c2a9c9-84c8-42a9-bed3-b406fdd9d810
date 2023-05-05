@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Forged Alloy (composition AAB06 with VAM in batch A)",
+   "notes": null,
+   "process": {
+      "id": "7946fdc3-0a8c-47cd-ac60-932a7b795444",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": null,
+   "spec": {
+      "id": "e3e864dd-1e1d-42ef-8a81-ad1167d75176",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "06c2a9c9-84c8-42a9-bed3-b406fdd9d810"
+   }
+}
