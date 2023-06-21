@@ -1,0 +1,17 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Weighting Fe for composition AAB04 with VAM in batch A",
+   "notes": null,
+   "parameters": [],
+   "tags": [],
+   "template": {
+      "id": "d948a5ed-9168-49b7-b701-8c5f185f6c58",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "measurement_spec",
+   "uids": {
+      "auto": "b4beb9f4-239a-44ba-a41c-43d50875aae6"
+   }
+}

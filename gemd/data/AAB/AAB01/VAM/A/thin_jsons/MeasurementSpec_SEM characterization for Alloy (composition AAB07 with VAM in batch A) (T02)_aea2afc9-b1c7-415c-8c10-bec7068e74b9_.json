@@ -1,0 +1,17 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "SEM characterization for Alloy (composition AAB07 with VAM in batch A) (T02)",
+   "notes": null,
+   "parameters": [],
+   "tags": [],
+   "template": {
+      "id": "6c77fb1d-6ba4-4c9b-a0e6-56a6ebb2226a",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "measurement_spec",
+   "uids": {
+      "auto": "aea2afc9-b1c7-415c-8c10-bec7068e74b9"
+   }
+}

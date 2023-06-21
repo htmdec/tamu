@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "composition AAB08 with VAM in batch A",
+   "notes": null,
+   "process": {
+      "id": "bf1221d4-53c4-439f-a0dc-c4e38630a461",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [],
+   "template": {
+      "id": "5cd78f9b-adaa-4513-875c-8fbd8e7564c0",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "cea9c01d-502f-42fc-893d-8803eba08a13"
+   }
+}

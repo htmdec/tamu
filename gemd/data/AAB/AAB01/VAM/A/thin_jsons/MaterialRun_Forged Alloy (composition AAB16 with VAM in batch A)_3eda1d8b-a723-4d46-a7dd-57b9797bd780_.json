@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "Forged Alloy (composition AAB16 with VAM in batch A)",
+   "notes": null,
+   "process": {
+      "id": "1feb92bb-498f-43ea-8691-d6b871d1ec1f",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": null,
+   "spec": {
+      "id": "c9cf9b05-c5c9-49f4-9324-d5d50091238a",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "composition_id::AAB16",
+      "batch::A",
+      "fabrication_method::VAM"
+   ],
+   "type": "material_run",
+   "uids": {
+      "auto": "3eda1d8b-a723-4d46-a7dd-57b9797bd780"
+   }
+}

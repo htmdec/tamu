@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "Al in composition AAB07 with VAM in batch A",
+   "notes": null,
+   "process": {
+      "id": "0a98374a-af9e-4518-9c22-ae3a0d80def7",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "production",
+   "spec": {
+      "id": "4b27ec58-5d90-4725-8ed9-6324cfd0b3e6",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "composition_id::AAB07",
+      "batch::A",
+      "fabrication_method::VAM"
+   ],
+   "type": "material_run",
+   "uids": {
+      "auto": "8c682735-732a-4ee8-93c5-01cd2dc2c14f"
+   }
+}

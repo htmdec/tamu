@@ -1,0 +1,127 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "material": {
+      "id": "e635c71d-1570-4f2e-af6c-650998d337c0",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Tensile characterization for Alloy (composition AAB15 with VAM in batch A) (Average)",
+   "notes": null,
+   "parameters": [],
+   "properties": [
+      {
+         "file_links": [],
+         "name": "Elastic Modulus, GPa",
+         "notes": "",
+         "origin": "predicted",
+         "template": {
+            "id": "5a4e0146-6469-4005-bc71-dd63ee0d3fcd",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "property",
+         "value": {
+            "nominal": 221.17202896283231,
+            "type": "nominal_real",
+            "units": "gigapascal"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Yield Strength, MPa",
+         "notes": "",
+         "origin": "predicted",
+         "template": {
+            "id": "b6548265-b01e-4086-b7bc-349957b31cca",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "property",
+         "value": {
+            "nominal": 367.25088677754,
+            "type": "nominal_real",
+            "units": "megapascal"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "UTS, MPa",
+         "notes": "",
+         "origin": "predicted",
+         "template": {
+            "id": "a9650465-a26d-4e44-8dcb-500c3114c692",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "property",
+         "value": {
+            "nominal": 758.728713844593,
+            "type": "nominal_real",
+            "units": "megapascal"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Elongation, %",
+         "notes": "",
+         "origin": "predicted",
+         "template": {
+            "id": "299f3b46-223e-4262-9d9e-1be376e6579c",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "property",
+         "value": {
+            "nominal": 33.83527660268676,
+            "type": "nominal_real",
+            "units": "dimensionless"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Strain Hardening, MPa",
+         "notes": "",
+         "origin": "predicted",
+         "template": {
+            "id": "eb65de14-235f-4094-8d07-2bcb5e5831ce",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "property",
+         "value": {
+            "nominal": 3498.1765457611045,
+            "type": "nominal_real",
+            "units": "megapascal"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "dUTS_dY",
+         "notes": "",
+         "origin": "predicted",
+         "template": {
+            "id": "7138aa6e-187d-419c-9313-035973ac57dc",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "property",
+         "value": {
+            "nominal": 2.0964798918922387,
+            "type": "nominal_real",
+            "units": "dimensionless"
+         }
+      }
+   ],
+   "source": null,
+   "spec": {
+      "id": "ad8ad6ab-e169-4c3b-94a0-7952f72f81cc",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "measurement_run",
+   "uids": {
+      "auto": "13f680e2-16c0-4c4c-a0e7-994940ae2b66"
+   }
+}

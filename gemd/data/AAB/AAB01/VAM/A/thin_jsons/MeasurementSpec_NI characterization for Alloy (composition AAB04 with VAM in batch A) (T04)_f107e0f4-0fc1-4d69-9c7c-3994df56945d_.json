@@ -1,0 +1,17 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "NI characterization for Alloy (composition AAB04 with VAM in batch A) (T04)",
+   "notes": null,
+   "parameters": [],
+   "tags": [],
+   "template": {
+      "id": "470744da-79e4-4daf-98a8-b5c289ad4e6c",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "measurement_spec",
+   "uids": {
+      "auto": "f107e0f4-0fc1-4d69-9c7c-3994df56945d"
+   }
+}

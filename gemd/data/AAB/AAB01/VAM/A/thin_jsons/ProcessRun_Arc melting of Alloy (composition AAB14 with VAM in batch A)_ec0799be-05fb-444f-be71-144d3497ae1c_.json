@@ -1,0 +1,123 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Arc melting of Alloy (composition AAB14 with VAM in batch A)",
+   "notes": null,
+   "parameters": [
+      {
+         "file_links": [],
+         "name": "Initial Purging Times",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "fa73db82-8a97-4eb0-a75f-8b819f789833",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 3.0,
+            "type": "nominal_real",
+            "units": "hour"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Vacuum Before Melt",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "f660d3cf-fb80-4553-a06d-b30e0336f6ff",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 5e-05,
+            "type": "nominal_real",
+            "units": "dimensionless"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Argon Pressure",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "0d91625f-1233-4b7e-bb19-c10283a459d6",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "category": "850-900",
+            "type": "nominal_categorical"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Diffusion",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "be9102b0-0f23-4d84-98d5-62192fe57117",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "category": "Before Each Melt",
+            "type": "nominal_categorical"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Ingot Location",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "003f6c11-fbd9-4cdf-bdf3-a5c6ef5ed8d4",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 10.0,
+            "type": "nominal_real",
+            "units": "dimensionless"
+         }
+      }
+   ],
+   "source": {
+      "performed_by": "Daniel",
+      "performed_date": "2022-11-05",
+      "type": "performed_source"
+   },
+   "spec": {
+      "id": "4bece305-3fee-4f8f-8b84-82ddbd77fe94",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "composition_id::AAB14",
+      "batch::A",
+      "fabrication_method::VAM",
+      "start_date::2022-11-03",
+      "finish_date::2022-11-05",
+      "time_spent::3",
+      "Full Ingot::7::175",
+      "Full Ingot::6::175",
+      "Full Ingot::5::145",
+      "Full Ingot::4::145",
+      "Full Ingot::3::145",
+      "Full Ingot::2::145",
+      "Full Ingot::1::110",
+      "3 Part Sections::3::110",
+      "3 Part Sections::2::90",
+      "3 Part Sections::1::90"
+   ],
+   "type": "process_run",
+   "uids": {
+      "auto": "ec0799be-05fb-444f-be71-144d3497ae1c"
+   }
+}

@@ -1,0 +1,17 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Weighting V for composition AAB11 with VAM in batch A",
+   "notes": null,
+   "parameters": [],
+   "tags": [],
+   "template": {
+      "id": "d948a5ed-9168-49b7-b701-8c5f185f6c58",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "measurement_spec",
+   "uids": {
+      "auto": "5e5541b2-36ae-47dd-b7f9-0613bd1e2f8c"
+   }
+}

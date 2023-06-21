@@ -1,0 +1,16 @@
+{
+   "bounds": {
+      "categories": [
+         "850-900",
+         "900-950"
+      ],
+      "type": "categorical_bounds"
+   },
+   "description": null,
+   "name": "Argon Pressure",
+   "tags": [],
+   "type": "parameter_template",
+   "uids": {
+      "auto": "0d91625f-1233-4b7e-bb19-c10283a459d6"
+   }
+}

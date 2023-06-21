@@ -1,0 +1,64 @@
+{
+   "file_links": [],
+   "name": "Ni in composition AAB03 with VAM in batch A",
+   "notes": null,
+   "process": {
+      "id": "d8eceb87-c52d-4bfc-93f1-1760f4f68571",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Composition Percentage",
+            "notes": "",
+            "origin": "predicted",
+            "template": {
+               "id": "c6a8003d-c543-41e6-86d7-303757e47d55",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "nominal": 25.0,
+               "type": "nominal_real",
+               "units": "dimensionless"
+            }
+         },
+         "type": "property_and_conditions"
+      },
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Target Mass",
+            "notes": "",
+            "origin": "computed",
+            "template": {
+               "id": "fb40707f-b335-4f66-87d6-36e44fd357d4",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "nominal": 7.7638,
+               "type": "nominal_real",
+               "units": "gram"
+            }
+         },
+         "type": "property_and_conditions"
+      }
+   ],
+   "tags": [],
+   "template": {
+      "id": "d46ea2d8-b2cd-4454-a529-366ae142ed7f",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "d4c52737-c367-4fd8-abae-7259f339ebdb"
+   }
+}

@@ -1,0 +1,61 @@
+{
+   "conditions": [],
+   "description": "Tensile measurement",
+   "name": "Tensile",
+   "parameters": [],
+   "properties": [
+      [
+         {
+            "id": "5a4e0146-6469-4005-bc71-dd63ee0d3fcd",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         null
+      ],
+      [
+         {
+            "id": "b6548265-b01e-4086-b7bc-349957b31cca",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         null
+      ],
+      [
+         {
+            "id": "a9650465-a26d-4e44-8dcb-500c3114c692",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         null
+      ],
+      [
+         {
+            "id": "299f3b46-223e-4262-9d9e-1be376e6579c",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         null
+      ],
+      [
+         {
+            "id": "eb65de14-235f-4094-8d07-2bcb5e5831ce",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         null
+      ],
+      [
+         {
+            "id": "7138aa6e-187d-419c-9313-035973ac57dc",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         null
+      ]
+   ],
+   "tags": [],
+   "type": "measurement_template",
+   "uids": {
+      "auto": "679dcd6f-55b4-4cf6-ae98-fceb6dc660e5"
+   }
+}

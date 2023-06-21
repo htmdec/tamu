@@ -1,0 +1,30 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "15112d59-09a7-4515-88a7-ceb5f7e8d8b7",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Cr in composition AAB04 with VAM in batch A Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "1392c8ed-4747-4c00-93f3-2aff8f9a4aca",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "bbb6e0a9-0d1f-4ffc-89d0-c4a86692553d",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "c1193142-e2a8-4cea-8c9d-0e9aa4472c25"
+   },
+   "volume_fraction": null
+}

@@ -1,0 +1,23 @@
+{
+   "file_links": [
+      {
+         "filename": "HTMDEC AAB Summary Synthesis Results.xlsx",
+         "type": "file_link",
+         "url": "/srv/hemi01-j01/htmdec/birdshot/Sample Data/Iteration2_AAB/HTMDEC AAB Summary Synthesis Results.xlsx"
+      }
+   ],
+   "name": "Inferred Alloy Compositions",
+   "notes": null,
+   "process": null,
+   "properties": [],
+   "tags": [],
+   "template": {
+      "id": "f5662cb1-dc90-4cab-8b03-017f74cc7592",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "cbced93d-7ac6-4100-8ad5-0bed4ac4b223"
+   }
+}

@@ -1,0 +1,18 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Infer compositions using Bayesian Optimizations",
+   "notes": null,
+   "parameters": [],
+   "source": null,
+   "spec": {
+      "id": "6da8bbfb-ff07-49fd-a4d6-caacefa2c36e",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "process_run",
+   "uids": {
+      "auto": "936ea974-4426-4610-95aa-78a2bd9b0f6a"
+   }
+}

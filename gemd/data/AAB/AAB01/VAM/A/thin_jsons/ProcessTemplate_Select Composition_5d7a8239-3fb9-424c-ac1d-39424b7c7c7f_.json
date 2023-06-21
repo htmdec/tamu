@@ -1,0 +1,13 @@
+{
+   "allowed_labels": [],
+   "allowed_names": [],
+   "conditions": [],
+   "description": "Selecting a composition from suggested compositions by Bayesian inference\n                ",
+   "name": "Select Composition",
+   "parameters": [],
+   "tags": [],
+   "type": "process_template",
+   "uids": {
+      "auto": "5d7a8239-3fb9-424c-ac1d-39424b7c7c7f"
+   }
+}

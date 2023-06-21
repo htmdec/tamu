@@ -1,0 +1,64 @@
+{
+   "file_links": [],
+   "name": "Fe in composition AAB08 with VAM in batch A",
+   "notes": null,
+   "process": {
+      "id": "9f61efd0-a2d9-485e-8fd6-79e6a1f4f525",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Composition Percentage",
+            "notes": "",
+            "origin": "predicted",
+            "template": {
+               "id": "c6a8003d-c543-41e6-86d7-303757e47d55",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "nominal": 30.0,
+               "type": "nominal_real",
+               "units": "dimensionless"
+            }
+         },
+         "type": "property_and_conditions"
+      },
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Target Mass",
+            "notes": "",
+            "origin": "computed",
+            "template": {
+               "id": "fb40707f-b335-4f66-87d6-36e44fd357d4",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "nominal": 8.8497,
+               "type": "nominal_real",
+               "units": "gram"
+            }
+         },
+         "type": "property_and_conditions"
+      }
+   ],
+   "tags": [],
+   "template": {
+      "id": "d46ea2d8-b2cd-4454-a529-366ae142ed7f",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "3fa2cf5f-419d-4d93-a657-5235992c8971"
+   }
+}
