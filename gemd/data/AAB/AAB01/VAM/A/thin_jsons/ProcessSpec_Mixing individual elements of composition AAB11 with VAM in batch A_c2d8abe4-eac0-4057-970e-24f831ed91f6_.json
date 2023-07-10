@@ -1,0 +1,17 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Mixing individual elements of composition AAB11 with VAM in batch A",
+   "notes": null,
+   "parameters": [],
+   "tags": [],
+   "template": {
+      "id": "eca43949-e74b-4061-84d1-116f3cf39dd8",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "c2d8abe4-eac0-4057-970e-24f831ed91f6"
+   }
+}

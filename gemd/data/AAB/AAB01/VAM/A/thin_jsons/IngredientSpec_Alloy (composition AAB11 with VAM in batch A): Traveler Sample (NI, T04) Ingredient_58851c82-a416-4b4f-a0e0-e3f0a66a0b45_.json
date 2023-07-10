@@ -1,0 +1,25 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "6316d244-5b20-497c-9709-cf45f582c8ec",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Alloy (composition AAB11 with VAM in batch A): Traveler Sample (NI, T04) Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "51478d48-d60c-4e84-8396-f9a33a2f086e",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_spec",
+   "uids": {
+      "auto": "58851c82-a416-4b4f-a0e0-e3f0a66a0b45"
+   },
+   "volume_fraction": null
+}

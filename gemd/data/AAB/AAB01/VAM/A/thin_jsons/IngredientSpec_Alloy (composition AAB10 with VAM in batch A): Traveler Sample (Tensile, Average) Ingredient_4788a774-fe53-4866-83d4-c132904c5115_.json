@@ -1,0 +1,25 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "7bd07c96-ec2b-4850-a6ee-e9ab49dc9088",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Alloy (composition AAB10 with VAM in batch A): Traveler Sample (Tensile, Average) Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "51478d48-d60c-4e84-8396-f9a33a2f086e",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_spec",
+   "uids": {
+      "auto": "4788a774-fe53-4866-83d4-c132904c5115"
+   },
+   "volume_fraction": null
+}

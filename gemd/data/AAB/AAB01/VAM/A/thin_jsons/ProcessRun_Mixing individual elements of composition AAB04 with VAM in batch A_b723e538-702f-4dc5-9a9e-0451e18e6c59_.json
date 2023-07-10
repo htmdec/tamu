@@ -1,0 +1,22 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Mixing individual elements of composition AAB04 with VAM in batch A",
+   "notes": null,
+   "parameters": [],
+   "source": null,
+   "spec": {
+      "id": "4b1ccccf-d43e-48d2-a589-e8e10411024d",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "composition_id::AAB04",
+      "batch::A",
+      "fabrication_method::VAM"
+   ],
+   "type": "process_run",
+   "uids": {
+      "auto": "b723e538-702f-4dc5-9a9e-0451e18e6c59"
+   }
+}

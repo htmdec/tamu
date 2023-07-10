@@ -1,0 +1,42 @@
+{
+   "file_links": [
+      {
+         "filename": "root",
+         "type": "file_link",
+         "url": "/srv/hemi01-j01/htmdec/birdshot/data/AAB/VAM/A/AAB08/T01"
+      },
+      {
+         "filename": "vam-synthesis-details-v1.json",
+         "type": "file_link",
+         "url": "/srv/hemi01-j01/htmdec/birdshot/data/AAB/VAM/A/AAB08/T01/vam-synthesis-details-v1.json"
+      }
+   ],
+   "name": "composition AAB08 with VAM in batch A",
+   "notes": null,
+   "process": {
+      "id": "28713c12-644c-4321-9c31-a01b0f0ff748",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": null,
+   "spec": {
+      "id": "8afd2610-9d8b-47b1-9a56-1a4aabd48727",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "composition_id::AAB08",
+      "batch::A",
+      "fabrication_method::VAM",
+      "Co::5",
+      "Cr::10",
+      "Fe::30",
+      "Ni::50",
+      "V::5",
+      "Al::0"
+   ],
+   "type": "material_run",
+   "uids": {
+      "auto": "8950c34c-6241-46fe-a5be-a32dd721004e"
+   }
+}

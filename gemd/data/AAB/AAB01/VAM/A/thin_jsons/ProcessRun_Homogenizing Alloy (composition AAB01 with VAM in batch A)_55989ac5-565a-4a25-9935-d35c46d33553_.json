@@ -1,0 +1,181 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Homogenizing Alloy (composition AAB01 with VAM in batch A)",
+   "notes": null,
+   "parameters": [
+      {
+         "file_links": [],
+         "name": "Atmosphere",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "812bb3bc-7900-4ff2-87c1-9b78bf99a497",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "category": "Ar",
+            "type": "nominal_categorical"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Cooling Rate",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "75bcdbc3-53d6-4637-bfc0-7581863a2a99",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "category": "FC",
+            "type": "nominal_categorical"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Duration",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "b984d9d8-aea9-4616-81ed-526a7cdf33c6",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 24.0,
+            "type": "nominal_real",
+            "units": "hour"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Pressure",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "a723ca9e-82da-4d91-80ad-ca5c1114185c",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 5.0,
+            "type": "nominal_real",
+            "units": "pascal"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Temperature",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "4f7b0e9c-41c1-4db5-92b5-d0a7294d1e81",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 1150.0,
+            "type": "nominal_real",
+            "units": "kelvin"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Purging Sequence 1 Pressure",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "a723ca9e-82da-4d91-80ad-ca5c1114185c",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 4.4e-05,
+            "type": "nominal_real",
+            "units": "pascal"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Purging Sequence 2 Pressure",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "a723ca9e-82da-4d91-80ad-ca5c1114185c",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 3.7e-05,
+            "type": "nominal_real",
+            "units": "pascal"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Purging Sequence 3 Pressure",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "a723ca9e-82da-4d91-80ad-ca5c1114185c",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 1.8e-05,
+            "type": "nominal_real",
+            "units": "pascal"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Purging Sequence 4 Pressure",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "a723ca9e-82da-4d91-80ad-ca5c1114185c",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 1.8e-05,
+            "type": "nominal_real",
+            "units": "pascal"
+         }
+      }
+   ],
+   "source": {
+      "performed_by": "Michael",
+      "performed_date": "2022-11-09",
+      "type": "performed_source"
+   },
+   "spec": {
+      "id": "227beae2-78d4-447e-bd65-fec109f7d96d",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "composition_id::AAB01",
+      "batch::A",
+      "fabrication_method::VAM",
+      "start_date::2022-11-05",
+      "finish_date::2022-11-09",
+      "time_spent::6"
+   ],
+   "type": "process_run",
+   "uids": {
+      "auto": "55989ac5-565a-4a25-9935-d35c46d33553"
+   }
+}

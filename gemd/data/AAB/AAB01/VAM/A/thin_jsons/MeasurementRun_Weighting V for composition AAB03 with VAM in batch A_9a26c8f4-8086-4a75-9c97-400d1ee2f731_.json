@@ -1,0 +1,67 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "material": {
+      "id": "8f19da3a-cdfd-4167-8db0-2972e0496ce4",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Weighting V for composition AAB03 with VAM in batch A",
+   "notes": null,
+   "parameters": [],
+   "properties": [
+      {
+         "file_links": [],
+         "name": "Weighed Mass",
+         "notes": null,
+         "origin": "unknown",
+         "template": {
+            "id": "9e206eb0-6d28-4fea-b01d-52067c79ff64",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "property",
+         "value": {
+            "nominal": 1.346,
+            "type": "nominal_real",
+            "units": "gram"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Mass Loss",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "75c6de74-3d32-4c0e-8d20-c8c09d79fdca",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "property",
+         "value": {
+            "nominal": 0.0,
+            "type": "nominal_real",
+            "units": "gram"
+         }
+      }
+   ],
+   "source": {
+      "performed_by": "Wenle & Daniel",
+      "performed_date": "2022-11-04",
+      "type": "performed_source"
+   },
+   "spec": {
+      "id": "e1032804-3149-4eb3-852e-48678c122e78",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "composition_id::AAB03",
+      "batch::A",
+      "fabrication_method::VAM"
+   ],
+   "type": "measurement_run",
+   "uids": {
+      "auto": "9a26c8f4-8086-4a75-9c97-400d1ee2f731"
+   }
+}

@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "composition AAB12 with VAM in batch A",
+   "notes": null,
+   "process": {
+      "id": "10e9d1ed-3ce4-4776-b472-283b9ad14c37",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [],
+   "template": {
+      "id": "508aa1cb-9bac-48b2-a7ed-96d7af30e4a5",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "8a5b11ad-bc40-40c2-969c-2c2a000aca76"
+   }
+}

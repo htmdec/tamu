@@ -1,0 +1,30 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "de7f8d16-7f4f-453d-bb48-b38a26165218",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Ni in composition AAB01 with VAM in batch A Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "e38cf7bc-3e3b-4390-bfe0-522523972113",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "acd1fbcc-c739-4755-9bf5-c684c287efaf",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "5786b4ae-5b0a-4e19-ac0f-54b83db908a4"
+   },
+   "volume_fraction": null
+}

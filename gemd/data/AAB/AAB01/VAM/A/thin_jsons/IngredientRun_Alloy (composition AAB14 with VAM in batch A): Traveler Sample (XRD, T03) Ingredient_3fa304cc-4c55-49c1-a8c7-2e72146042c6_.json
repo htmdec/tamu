@@ -1,0 +1,30 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "3bfe6a4a-d660-4265-8de4-d6fcd66b309e",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Alloy (composition AAB14 with VAM in batch A): Traveler Sample (XRD, T03) Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "8a6f4ebe-24cd-48a8-a627-e26e423d96e7",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "018ac863-1e27-42f7-bd27-662dc39fe0f4",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "3fa304cc-4c55-49c1-a8c7-2e72146042c6"
+   },
+   "volume_fraction": null
+}

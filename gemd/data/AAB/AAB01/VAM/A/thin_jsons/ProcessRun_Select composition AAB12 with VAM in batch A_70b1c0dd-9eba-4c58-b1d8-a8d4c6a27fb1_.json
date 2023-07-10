@@ -1,0 +1,39 @@
+{
+   "conditions": [],
+   "file_links": [
+      {
+         "filename": "root",
+         "type": "file_link",
+         "url": "/srv/hemi01-j01/htmdec/birdshot/data/AAB/VAM/A/AAB12/T01"
+      },
+      {
+         "filename": "T06",
+         "type": "file_link",
+         "url": "/srv/hemi01-j01/htmdec/birdshot/data/AAB/VAM/A/AAB12/T01/T06"
+      }
+   ],
+   "name": "Select composition AAB12 with VAM in batch A",
+   "notes": null,
+   "parameters": [],
+   "source": null,
+   "spec": {
+      "id": "10e9d1ed-3ce4-4776-b472-283b9ad14c37",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "composition_id::AAB12",
+      "batch::A",
+      "fabrication_method::VAM",
+      "Co::15",
+      "Cr::5",
+      "Fe::20",
+      "Ni::40",
+      "V::20",
+      "Al::0"
+   ],
+   "type": "process_run",
+   "uids": {
+      "auto": "70b1c0dd-9eba-4c58-b1d8-a8d4c6a27fb1"
+   }
+}

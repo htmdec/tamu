@@ -1,0 +1,64 @@
+{
+   "file_links": [],
+   "name": "Cr in composition AAB09 with VAM in batch A",
+   "notes": null,
+   "process": {
+      "id": "86ed785d-71f7-4f67-b701-e4ba89ebc278",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Composition Percentage",
+            "notes": "",
+            "origin": "predicted",
+            "template": {
+               "id": "acb9c881-ac63-49b6-97d0-2b9c7bf5d773",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "nominal": 0.0,
+               "type": "nominal_real",
+               "units": "dimensionless"
+            }
+         },
+         "type": "property_and_conditions"
+      },
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Target Mass",
+            "notes": "",
+            "origin": "computed",
+            "template": {
+               "id": "f68e3048-48c1-423c-a21d-075e0e428181",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "nominal": 0.0,
+               "type": "nominal_real",
+               "units": "gram"
+            }
+         },
+         "type": "property_and_conditions"
+      }
+   ],
+   "tags": [],
+   "template": {
+      "id": "862b710d-f134-442f-8515-da62e296c004",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "a32acab2-3b2a-44ba-8fec-2ab8d264aa3e"
+   }
+}

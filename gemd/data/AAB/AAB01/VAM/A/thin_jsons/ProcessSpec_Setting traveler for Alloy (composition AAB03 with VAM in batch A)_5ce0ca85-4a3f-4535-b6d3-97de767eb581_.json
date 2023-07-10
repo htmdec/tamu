@@ -1,0 +1,17 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Setting traveler for Alloy (composition AAB03 with VAM in batch A)",
+   "notes": null,
+   "parameters": [],
+   "tags": [],
+   "template": {
+      "id": "932d87b0-f702-4966-b291-175142629f22",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "5ce0ca85-4a3f-4535-b6d3-97de767eb581"
+   }
+}

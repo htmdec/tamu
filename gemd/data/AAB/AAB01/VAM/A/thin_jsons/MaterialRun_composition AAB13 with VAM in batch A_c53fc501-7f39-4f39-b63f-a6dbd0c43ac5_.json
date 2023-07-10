@@ -1,0 +1,42 @@
+{
+   "file_links": [
+      {
+         "filename": "root",
+         "type": "file_link",
+         "url": "/srv/hemi01-j01/htmdec/birdshot/data/AAB/VAM/A/AAB13/T01"
+      },
+      {
+         "filename": "vam-traveler-v1.json",
+         "type": "file_link",
+         "url": "/srv/hemi01-j01/htmdec/birdshot/data/AAB/VAM/A/AAB13/T01/vam-traveler-v1.json"
+      }
+   ],
+   "name": "composition AAB13 with VAM in batch A",
+   "notes": null,
+   "process": {
+      "id": "57869efb-ac8e-4912-8b38-492625e8c82f",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": null,
+   "spec": {
+      "id": "1cc48469-b989-4043-a3cf-bd8b1813e18f",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "composition_id::AAB13",
+      "batch::A",
+      "fabrication_method::VAM",
+      "Co::5",
+      "Cr::10",
+      "Fe::35",
+      "Ni::45",
+      "V::0",
+      "Al::5"
+   ],
+   "type": "material_run",
+   "uids": {
+      "auto": "c53fc501-7f39-4f39-b63f-a6dbd0c43ac5"
+   }
+}

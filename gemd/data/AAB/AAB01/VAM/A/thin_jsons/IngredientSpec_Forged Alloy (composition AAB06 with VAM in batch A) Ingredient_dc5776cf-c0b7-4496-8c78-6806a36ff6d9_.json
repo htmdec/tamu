@@ -1,0 +1,25 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "5815ec95-c645-4eb0-8313-ed948d462f19",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Forged Alloy (composition AAB06 with VAM in batch A) Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "8f269f3a-1a73-4765-910b-ab245f21247c",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_spec",
+   "uids": {
+      "auto": "dc5776cf-c0b7-4496-8c78-6806a36ff6d9"
+   },
+   "volume_fraction": null
+}

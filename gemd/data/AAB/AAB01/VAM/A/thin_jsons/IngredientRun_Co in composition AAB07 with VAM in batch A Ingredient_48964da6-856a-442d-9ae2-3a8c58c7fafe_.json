@@ -1,0 +1,30 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "cac837fb-4996-4a45-b626-00ef7d262144",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Co in composition AAB07 with VAM in batch A Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "491fdeeb-0f5f-471e-8311-85e2d2fd7eed",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "208e838a-a51c-4370-a5a5-82e745cd1644",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "48964da6-856a-442d-9ae2-3a8c58c7fafe"
+   },
+   "volume_fraction": null
+}

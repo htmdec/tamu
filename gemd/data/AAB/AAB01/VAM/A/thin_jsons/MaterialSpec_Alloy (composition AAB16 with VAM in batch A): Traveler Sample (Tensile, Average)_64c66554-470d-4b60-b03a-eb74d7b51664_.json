@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Alloy (composition AAB16 with VAM in batch A): Traveler Sample (Tensile, Average)",
+   "notes": null,
+   "process": {
+      "id": "ca132ece-646b-4346-9f0a-29bb3d8ddecc",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [],
+   "template": {
+      "id": "95bf5ad1-ce2e-4698-9674-fb90715a00e9",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "64c66554-470d-4b60-b03a-eb74d7b51664"
+   }
+}

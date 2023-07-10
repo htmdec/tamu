@@ -1,0 +1,17 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "XRD characterization for Alloy (composition AAB16 with VAM in batch A) (T03)",
+   "notes": null,
+   "parameters": [],
+   "tags": [],
+   "template": {
+      "id": "a545f28b-8676-460a-a55c-23cab593a0d2",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "measurement_spec",
+   "uids": {
+      "auto": "ab0f7771-2b9a-4f20-ac4d-8d102e6d2fce"
+   }
+}

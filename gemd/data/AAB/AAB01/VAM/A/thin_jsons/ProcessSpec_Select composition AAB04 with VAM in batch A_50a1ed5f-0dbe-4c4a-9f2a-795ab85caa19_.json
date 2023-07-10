@@ -1,0 +1,17 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Select composition AAB04 with VAM in batch A",
+   "notes": null,
+   "parameters": [],
+   "tags": [],
+   "template": {
+      "id": "affa2033-e250-46a7-9b00-8d8c0548fb92",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "50a1ed5f-0dbe-4c4a-9f2a-795ab85caa19"
+   }
+}

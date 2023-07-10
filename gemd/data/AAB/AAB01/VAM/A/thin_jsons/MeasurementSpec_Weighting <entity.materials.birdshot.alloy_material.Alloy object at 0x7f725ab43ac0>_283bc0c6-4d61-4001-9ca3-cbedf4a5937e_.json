@@ -1,0 +1,17 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Weighting <entity.materials.birdshot.alloy_material.Alloy object at 0x7f725ab43ac0>",
+   "notes": null,
+   "parameters": [],
+   "tags": [],
+   "template": {
+      "id": "2216edbe-1016-4f54-9ae4-57d7326883b4",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "measurement_spec",
+   "uids": {
+      "auto": "283bc0c6-4d61-4001-9ca3-cbedf4a5937e"
+   }
+}

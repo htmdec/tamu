@@ -1,0 +1,67 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "material": {
+      "id": "e7bfbdf8-cacb-4f3c-bbc2-e8d0a0cd6212",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Weighting Cr for composition AAB13 with VAM in batch A",
+   "notes": null,
+   "parameters": [],
+   "properties": [
+      {
+         "file_links": [],
+         "name": "Weighed Mass",
+         "notes": null,
+         "origin": "unknown",
+         "template": {
+            "id": "9e206eb0-6d28-4fea-b01d-52067c79ff64",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "property",
+         "value": {
+            "nominal": 2.8171,
+            "type": "nominal_real",
+            "units": "gram"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Mass Loss",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "75c6de74-3d32-4c0e-8d20-c8c09d79fdca",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "property",
+         "value": {
+            "nominal": 0.0,
+            "type": "nominal_real",
+            "units": "gram"
+         }
+      }
+   ],
+   "source": {
+      "performed_by": "Wenle & Daniel",
+      "performed_date": "2022-11-04",
+      "type": "performed_source"
+   },
+   "spec": {
+      "id": "76368139-7398-4989-9d82-1a2e2d2ff6e1",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "composition_id::AAB13",
+      "batch::A",
+      "fabrication_method::VAM"
+   ],
+   "type": "measurement_run",
+   "uids": {
+      "auto": "0e0d3aef-d43a-4db9-ab70-43b8b2351186"
+   }
+}

@@ -1,0 +1,67 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "material": {
+      "id": "50ed82d1-3f8c-4cd2-a451-317629241660",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Weighting <entity.materials.birdshot.alloy_material.Alloy object at 0x7f725ade3e50>",
+   "notes": null,
+   "parameters": [],
+   "properties": [
+      {
+         "file_links": [],
+         "name": "Weighed Mass",
+         "notes": null,
+         "origin": "unknown",
+         "template": {
+            "id": "9e206eb0-6d28-4fea-b01d-52067c79ff64",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "property",
+         "value": {
+            "nominal": 29.9917,
+            "type": "nominal_real",
+            "units": "gram"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Mass Loss",
+         "notes": null,
+         "origin": "unknown",
+         "template": {
+            "id": "75c6de74-3d32-4c0e-8d20-c8c09d79fdca",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "property",
+         "value": {
+            "nominal": 0.04,
+            "type": "nominal_real",
+            "units": "gram"
+         }
+      }
+   ],
+   "source": {
+      "performed_by": "Daniel",
+      "performed_date": "2022-11-05",
+      "type": "performed_source"
+   },
+   "spec": {
+      "id": "95e9596c-5793-4565-a6e9-6c870fb9c7b8",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "composition_id::AAB09",
+      "batch::A",
+      "fabrication_method::VAM"
+   ],
+   "type": "measurement_run",
+   "uids": {
+      "auto": "1efd74f1-b0b9-4ee9-814d-8f799c445152"
+   }
+}

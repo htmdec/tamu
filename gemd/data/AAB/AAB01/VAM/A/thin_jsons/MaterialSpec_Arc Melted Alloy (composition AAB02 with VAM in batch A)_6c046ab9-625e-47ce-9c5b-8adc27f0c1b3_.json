@@ -1,0 +1,42 @@
+{
+   "file_links": [],
+   "name": "Arc Melted Alloy (composition AAB02 with VAM in batch A)",
+   "notes": null,
+   "process": {
+      "id": "91b2f733-06f2-4c40-ad3c-b0ef3d8789fa",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Form",
+            "notes": "",
+            "origin": "predicted",
+            "template": {
+               "id": "2af6af2b-fc8b-4f12-ad16-b769186434f8",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "category": "Ingot",
+               "type": "nominal_categorical"
+            }
+         },
+         "type": "property_and_conditions"
+      }
+   ],
+   "tags": [],
+   "template": {
+      "id": "2cae419e-f2c0-47d1-808c-4f560dda0924",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "6c046ab9-625e-47ce-9c5b-8adc27f0c1b3"
+   }
+}

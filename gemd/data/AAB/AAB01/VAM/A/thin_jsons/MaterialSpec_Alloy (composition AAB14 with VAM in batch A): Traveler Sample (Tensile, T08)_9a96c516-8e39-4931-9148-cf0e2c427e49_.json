@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Alloy (composition AAB14 with VAM in batch A): Traveler Sample (Tensile, T08)",
+   "notes": null,
+   "process": {
+      "id": "5126e5c3-c614-4242-9855-0cc8bb64ce39",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [],
+   "template": {
+      "id": "95bf5ad1-ce2e-4698-9674-fb90715a00e9",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "9a96c516-8e39-4931-9148-cf0e2c427e49"
+   }
+}

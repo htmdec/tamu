@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "Fe in composition AAB14 with VAM in batch A",
+   "notes": null,
+   "process": {
+      "id": "648beeee-fc44-431c-8e28-09aac78360c4",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "production",
+   "spec": {
+      "id": "d8f147df-c4fc-4102-9a4d-e479abe8d065",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "composition_id::AAB14",
+      "batch::A",
+      "fabrication_method::VAM"
+   ],
+   "type": "material_run",
+   "uids": {
+      "auto": "a313c58c-9b68-4715-9f20-5aab5911a489"
+   }
+}

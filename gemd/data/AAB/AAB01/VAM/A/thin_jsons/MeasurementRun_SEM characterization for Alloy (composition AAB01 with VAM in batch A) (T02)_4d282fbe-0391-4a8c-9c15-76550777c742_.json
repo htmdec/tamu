@@ -1,0 +1,24 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "material": {
+      "id": "0aae94ea-457d-4025-b850-96b1dd1203d5",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "SEM characterization for Alloy (composition AAB01 with VAM in batch A) (T02)",
+   "notes": null,
+   "parameters": [],
+   "properties": [],
+   "source": null,
+   "spec": {
+      "id": "cb90c93d-7088-4554-9b0a-dab3f805c510",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "measurement_run",
+   "uids": {
+      "auto": "4d282fbe-0391-4a8c-9c15-76550777c742"
+   }
+}

@@ -1,0 +1,92 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "material": {
+      "id": "73db150f-4f98-486d-b16c-f20230eaeef4",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "XRD characterization for Alloy (composition AAB07 with VAM in batch A) (T03)",
+   "notes": null,
+   "parameters": [],
+   "properties": [
+      {
+         "file_links": [],
+         "name": "Phase",
+         "notes": "",
+         "origin": "predicted",
+         "template": {
+            "id": "568ece28-6f93-4959-8d7c-240bd4868670",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "property",
+         "value": {
+            "category": "FCC",
+            "type": "nominal_categorical"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Lattice Parameter",
+         "notes": "",
+         "origin": "predicted",
+         "template": {
+            "id": "0e997b70-29a3-45c4-9bbe-d7a1f689bd9b",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "property",
+         "value": {
+            "nominal": 3.5724552546242134,
+            "type": "nominal_real",
+            "units": "centimeter"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Hardness, HV",
+         "notes": "",
+         "origin": "predicted",
+         "template": {
+            "id": "a653ca66-210b-4abd-a119-864afc92c463",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "property",
+         "value": {
+            "nominal": 253.07999999999998,
+            "type": "nominal_real",
+            "units": "pascal"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "SD, HV",
+         "notes": "",
+         "origin": "predicted",
+         "template": {
+            "id": "9de83a5b-140c-4b1d-939a-7262a5d7d968",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "property",
+         "value": {
+            "nominal": 9.241590772156052,
+            "type": "nominal_real",
+            "units": "pascal"
+         }
+      }
+   ],
+   "source": null,
+   "spec": {
+      "id": "66b3882c-e44b-48b7-b5fe-444059cc66b1",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "measurement_run",
+   "uids": {
+      "auto": "e47ab651-0b12-4b96-84c6-b05460d604a1"
+   }
+}

@@ -1,0 +1,30 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "33dd037f-1f10-45f2-b4f2-991f6969a3bd",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Homogenized Alloy (composition AAB12 with VAM in batch A) Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "9c7a7a1a-58e9-4c38-9eed-b0d1d2bcace8",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "b3ef3bb7-abc1-4dbe-bb29-0a57f80f41e5",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "613ae562-5c40-4699-a1fd-7cf8c14d4de5"
+   },
+   "volume_fraction": null
+}

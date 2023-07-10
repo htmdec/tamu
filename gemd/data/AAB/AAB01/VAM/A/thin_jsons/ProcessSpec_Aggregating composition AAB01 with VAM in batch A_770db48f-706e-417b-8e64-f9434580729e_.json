@@ -1,0 +1,17 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Aggregating composition AAB01 with VAM in batch A",
+   "notes": null,
+   "parameters": [],
+   "tags": [],
+   "template": {
+      "id": "c668bdba-ce09-4fc8-b89d-532d9db65ccf",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "770db48f-706e-417b-8e64-f9434580729e"
+   }
+}

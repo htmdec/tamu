@@ -1,0 +1,30 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "65887843-e140-4aa9-b8bd-9236aaa1f7ca",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Alloy (composition AAB14 with VAM in batch A): Traveler Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "8f93881e-1d43-48ab-af5c-b1121bbbb61a",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "e65d28db-ccc6-4fcc-b439-be76f01e7fa1",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "99dbb683-4734-4d3a-b8d2-6f5b0af318ec"
+   },
+   "volume_fraction": null
+}

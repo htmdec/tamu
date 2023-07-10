@@ -1,0 +1,25 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "f00adc1c-9916-4b7b-a62a-ed87e60ab28a",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Co in composition AAB14 with VAM in batch A Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "ffdb51a2-8e27-433a-8f65-43b26297d9f0",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_spec",
+   "uids": {
+      "auto": "e796095b-a32e-4fe6-9015-e10d989d1ae4"
+   },
+   "volume_fraction": null
+}

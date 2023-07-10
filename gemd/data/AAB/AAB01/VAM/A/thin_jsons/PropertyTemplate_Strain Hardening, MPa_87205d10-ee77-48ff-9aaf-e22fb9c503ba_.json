@@ -1,0 +1,15 @@
+{
+   "bounds": {
+      "default_units": "megapascal",
+      "lower_bound": 0,
+      "type": "real_bounds",
+      "upper_bound": 10000
+   },
+   "description": null,
+   "name": "Strain Hardening, MPa",
+   "tags": [],
+   "type": "property_template",
+   "uids": {
+      "auto": "87205d10-ee77-48ff-9aaf-e22fb9c503ba"
+   }
+}

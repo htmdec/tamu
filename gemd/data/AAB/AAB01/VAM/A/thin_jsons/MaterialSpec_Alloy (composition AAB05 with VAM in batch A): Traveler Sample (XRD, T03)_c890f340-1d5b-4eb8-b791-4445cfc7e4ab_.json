@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Alloy (composition AAB05 with VAM in batch A): Traveler Sample (XRD, T03)",
+   "notes": null,
+   "process": {
+      "id": "83fbd309-fe07-46b9-9875-10cee4aa9403",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [],
+   "template": {
+      "id": "95bf5ad1-ce2e-4698-9674-fb90715a00e9",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "c890f340-1d5b-4eb8-b791-4445cfc7e4ab"
+   }
+}

@@ -1,0 +1,15 @@
+{
+   "bounds": {
+      "default_units": "gram",
+      "lower_bound": 0,
+      "type": "real_bounds",
+      "upper_bound": 150
+   },
+   "description": "Weighted Mass",
+   "name": "Weighed Mass",
+   "tags": [],
+   "type": "property_template",
+   "uids": {
+      "auto": "9e206eb0-6d28-4fea-b01d-52067c79ff64"
+   }
+}

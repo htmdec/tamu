@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Alloy (composition AAB06 with VAM in batch A): Traveler Sample (SEM, T02)",
+   "notes": null,
+   "process": {
+      "id": "75990cb1-2391-4ece-8f49-81345b04a0b7",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": null,
+   "spec": {
+      "id": "5925a717-c2f0-4770-9042-306ca427ab67",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "material_run",
+   "uids": {
+      "auto": "6f39c73e-3973-423d-b58a-575753b73732"
+   }
+}

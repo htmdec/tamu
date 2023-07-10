@@ -1,0 +1,98 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Forging Alloy (composition AAB04 with VAM in batch A)",
+   "notes": null,
+   "parameters": [
+      {
+         "file_links": [],
+         "name": "Press Temperature",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "c872c350-581b-4b23-9afe-d054f5e4de82",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 398.0,
+            "type": "nominal_real",
+            "units": "kelvin"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Soak Time",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "ce899b71-a6ea-4184-9e9a-ba4ada23fd7b",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 30.0,
+            "type": "nominal_real",
+            "units": "minute"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Temperature",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "c872c350-581b-4b23-9afe-d054f5e4de82",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 1150.0,
+            "type": "nominal_real",
+            "units": "kelvin"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Maximum Load Step",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "71939d66-6b46-44df-a01d-3c2b0849eaae",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 68.67,
+            "type": "nominal_real",
+            "units": "pascal"
+         }
+      }
+   ],
+   "source": {
+      "performed_by": "Robert & Michael",
+      "performed_date": "2022-11-09",
+      "type": "performed_source"
+   },
+   "spec": {
+      "id": "ae1c6020-69ab-41db-a131-425c6a7c5b5c",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "composition_id::AAB04",
+      "batch::A",
+      "fabrication_method::VAM",
+      "start_date::2022-11-08",
+      "finish_date::2022-11-09",
+      "time_spent::7"
+   ],
+   "type": "process_run",
+   "uids": {
+      "auto": "07bc688e-3bcd-42ba-b4e9-234d4763ab84"
+   }
+}

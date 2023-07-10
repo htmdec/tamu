@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "Ni in composition AAB16 with VAM in batch A",
+   "notes": null,
+   "process": {
+      "id": "72cdc002-03b5-41b8-a042-79e931fd7173",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "production",
+   "spec": {
+      "id": "41910684-ea48-4e5a-827a-c8dd035d7514",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "composition_id::AAB16",
+      "batch::A",
+      "fabrication_method::VAM"
+   ],
+   "type": "material_run",
+   "uids": {
+      "auto": "6f700bda-4fbc-467d-a900-eb315329f86d"
+   }
+}

@@ -1,0 +1,17 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Tensile characterization for Alloy (composition AAB05 with VAM in batch A) (Average)",
+   "notes": null,
+   "parameters": [],
+   "tags": [],
+   "template": {
+      "id": "c90e1e51-8c89-4f20-a7cf-d1de53508407",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "measurement_spec",
+   "uids": {
+      "auto": "823c14ec-c749-486c-b577-6eab3532d771"
+   }
+}

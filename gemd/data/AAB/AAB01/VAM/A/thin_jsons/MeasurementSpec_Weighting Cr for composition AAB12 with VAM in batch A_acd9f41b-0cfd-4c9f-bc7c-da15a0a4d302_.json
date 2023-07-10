@@ -1,0 +1,17 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Weighting Cr for composition AAB12 with VAM in batch A",
+   "notes": null,
+   "parameters": [],
+   "tags": [],
+   "template": {
+      "id": "2216edbe-1016-4f54-9ae4-57d7326883b4",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "measurement_spec",
+   "uids": {
+      "auto": "acd9f41b-0cfd-4c9f-bc7c-da15a0a4d302"
+   }
+}

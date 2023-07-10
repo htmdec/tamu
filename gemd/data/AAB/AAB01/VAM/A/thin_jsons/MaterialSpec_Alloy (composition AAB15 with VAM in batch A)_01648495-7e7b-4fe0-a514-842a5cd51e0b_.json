@@ -1,0 +1,21 @@
+{
+   "file_links": [],
+   "name": "Alloy (composition AAB15 with VAM in batch A)",
+   "notes": null,
+   "process": {
+      "id": "f37de06e-8891-4269-9267-596f7ae171c9",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [],
+   "tags": [],
+   "template": {
+      "id": "2cae419e-f2c0-47d1-808c-4f560dda0924",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "01648495-7e7b-4fe0-a514-842a5cd51e0b"
+   }
+}

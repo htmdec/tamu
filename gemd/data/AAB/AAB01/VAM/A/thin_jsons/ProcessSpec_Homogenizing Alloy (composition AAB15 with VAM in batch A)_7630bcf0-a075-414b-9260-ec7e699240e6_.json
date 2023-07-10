@@ -1,0 +1,17 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Homogenizing Alloy (composition AAB15 with VAM in batch A)",
+   "notes": null,
+   "parameters": [],
+   "tags": [],
+   "template": {
+      "id": "d7f0e30d-e70d-492a-a7de-0f7695ef8993",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "7630bcf0-a075-414b-9260-ec7e699240e6"
+   }
+}

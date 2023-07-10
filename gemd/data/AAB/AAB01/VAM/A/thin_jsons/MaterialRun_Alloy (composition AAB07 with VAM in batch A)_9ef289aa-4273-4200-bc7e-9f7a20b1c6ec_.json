@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "Alloy (composition AAB07 with VAM in batch A)",
+   "notes": null,
+   "process": {
+      "id": "491fdeeb-0f5f-471e-8311-85e2d2fd7eed",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": null,
+   "spec": {
+      "id": "0dd107dc-1cff-4226-8f76-df4742f422e7",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "composition_id::AAB07",
+      "batch::A",
+      "fabrication_method::VAM"
+   ],
+   "type": "material_run",
+   "uids": {
+      "auto": "9ef289aa-4273-4200-bc7e-9f7a20b1c6ec"
+   }
+}

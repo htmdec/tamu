@@ -1,0 +1,39 @@
+{
+   "conditions": [],
+   "file_links": [
+      {
+         "filename": "root",
+         "type": "file_link",
+         "url": "/srv/hemi01-j01/htmdec/birdshot/data/AAB/VAM/A/AAB01/T01"
+      },
+      {
+         "filename": "vam-processing-details-v1.json",
+         "type": "file_link",
+         "url": "/srv/hemi01-j01/htmdec/birdshot/data/AAB/VAM/A/AAB01/T01/vam-processing-details-v1.json"
+      }
+   ],
+   "name": "Select composition AAB01 with VAM in batch A",
+   "notes": null,
+   "parameters": [],
+   "source": null,
+   "spec": {
+      "id": "c2035e8b-75b2-400a-8574-2811f2686642",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "composition_id::AAB01",
+      "batch::A",
+      "fabrication_method::VAM",
+      "Co::50",
+      "Cr::10",
+      "Fe::15",
+      "Ni::15",
+      "V::10",
+      "Al::0"
+   ],
+   "type": "process_run",
+   "uids": {
+      "auto": "608931b4-4400-4cb7-b1de-41aec2d818a6"
+   }
+}

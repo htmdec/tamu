@@ -1,0 +1,42 @@
+{
+   "file_links": [],
+   "name": "Homogenized Alloy (composition AAB04 with VAM in batch A)",
+   "notes": null,
+   "process": {
+      "id": "ff00d182-8d1a-4ef5-a487-266897352074",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Form",
+            "notes": "",
+            "origin": "predicted",
+            "template": {
+               "id": "2af6af2b-fc8b-4f12-ad16-b769186434f8",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "category": "Ingot",
+               "type": "nominal_categorical"
+            }
+         },
+         "type": "property_and_conditions"
+      }
+   ],
+   "tags": [],
+   "template": {
+      "id": "2cae419e-f2c0-47d1-808c-4f560dda0924",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "fc187272-9caf-4cd4-8ea1-405d2be74abf"
+   }
+}

@@ -1,0 +1,25 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "5ceed9f5-51e6-493b-bff3-ebbcc4d03cf7",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Alloy (composition AAB16 with VAM in batch A) Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "219a9a5b-0f2d-4ae3-9da6-bbd0392bdcfb",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_spec",
+   "uids": {
+      "auto": "478adf8c-8af4-4bdb-8e19-afa229a5cf61"
+   },
+   "volume_fraction": null
+}

@@ -1,0 +1,30 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "c2b7aded-9c60-4d9a-8fdb-a56734c2c28f",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "Al in composition AAB12 with VAM in batch A Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "734ea51b-d6f1-4510-954c-7c783c1c10fc",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "spec": {
+      "id": "7f2d50f8-b1df-4cf9-ac23-c4c03b968051",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_run",
+   "uids": {
+      "auto": "3c3d0fdc-a249-4311-8f80-5401ced6fa19"
+   },
+   "volume_fraction": null
+}

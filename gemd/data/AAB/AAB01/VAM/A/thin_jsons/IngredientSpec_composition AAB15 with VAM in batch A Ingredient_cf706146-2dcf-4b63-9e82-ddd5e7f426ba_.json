@@ -1,0 +1,25 @@
+{
+   "absolute_quantity": null,
+   "file_links": [],
+   "labels": [],
+   "mass_fraction": null,
+   "material": {
+      "id": "3e0e1d00-2f72-4ca5-9bf3-477f3af83a48",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "name": "composition AAB15 with VAM in batch A Ingredient",
+   "notes": null,
+   "number_fraction": null,
+   "process": {
+      "id": "3f18a64c-ba05-40d1-88ea-213043da8478",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [],
+   "type": "ingredient_spec",
+   "uids": {
+      "auto": "cf706146-2dcf-4b63-9e82-ddd5e7f426ba"
+   },
+   "volume_fraction": null
+}

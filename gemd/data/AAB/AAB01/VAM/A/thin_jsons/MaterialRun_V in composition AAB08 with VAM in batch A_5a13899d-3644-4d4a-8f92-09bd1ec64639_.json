@@ -1,0 +1,25 @@
+{
+   "file_links": [],
+   "name": "V in composition AAB08 with VAM in batch A",
+   "notes": null,
+   "process": {
+      "id": "b5c7fb54-c05f-45d0-bca9-bc61af1ad2de",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "sample_type": "production",
+   "spec": {
+      "id": "0705d748-3806-4cdf-a42f-aa9936b5b740",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "tags": [
+      "composition_id::AAB08",
+      "batch::A",
+      "fabrication_method::VAM"
+   ],
+   "type": "material_run",
+   "uids": {
+      "auto": "5a13899d-3644-4d4a-8f92-09bd1ec64639"
+   }
+}

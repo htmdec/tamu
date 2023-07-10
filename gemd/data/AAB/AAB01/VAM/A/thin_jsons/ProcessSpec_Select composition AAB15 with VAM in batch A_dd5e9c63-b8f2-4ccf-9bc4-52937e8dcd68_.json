@@ -1,0 +1,17 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Select composition AAB15 with VAM in batch A",
+   "notes": null,
+   "parameters": [],
+   "tags": [],
+   "template": {
+      "id": "affa2033-e250-46a7-9b00-8d8c0548fb92",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "dd5e9c63-b8f2-4ccf-9bc4-52937e8dcd68"
+   }
+}

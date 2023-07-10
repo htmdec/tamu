@@ -1,0 +1,52 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Arc melting of Alloy (composition AAB09 with VAM in batch A)",
+   "notes": null,
+   "parameters": [
+      {
+         "file_links": [],
+         "name": "Initial Purging Times",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "bf7fb44b-4866-4cee-86ec-f9fa35bdcc7c",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 0.0,
+            "type": "nominal_real",
+            "units": "hour"
+         }
+      },
+      {
+         "file_links": [],
+         "name": "Vacuum Before Melt",
+         "notes": null,
+         "origin": "specified",
+         "template": {
+            "id": "87ee49eb-9ddc-4d00-950b-e6118f1274df",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         "type": "parameter",
+         "value": {
+            "nominal": 0.0,
+            "type": "nominal_real",
+            "units": "dimensionless"
+         }
+      }
+   ],
+   "tags": [],
+   "template": {
+      "id": "30c8c5f4-8db6-4142-a02a-db0c4b8bc334",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "0166aa9f-dfb6-4f1f-a65b-adf965bd39ff"
+   }
+}

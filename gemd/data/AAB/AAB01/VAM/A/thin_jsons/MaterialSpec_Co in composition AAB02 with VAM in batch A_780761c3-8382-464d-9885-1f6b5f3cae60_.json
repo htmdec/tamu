@@ -1,0 +1,64 @@
+{
+   "file_links": [],
+   "name": "Co in composition AAB02 with VAM in batch A",
+   "notes": null,
+   "process": {
+      "id": "ea05d1b4-a06c-4047-ab29-33ecf3cc5168",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "properties": [
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Composition Percentage",
+            "notes": "",
+            "origin": "predicted",
+            "template": {
+               "id": "acb9c881-ac63-49b6-97d0-2b9c7bf5d773",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "nominal": 5.0,
+               "type": "nominal_real",
+               "units": "dimensionless"
+            }
+         },
+         "type": "property_and_conditions"
+      },
+      {
+         "conditions": [],
+         "property": {
+            "file_links": [],
+            "name": "Target Mass",
+            "notes": "",
+            "origin": "computed",
+            "template": {
+               "id": "f68e3048-48c1-423c-a21d-075e0e428181",
+               "scope": "auto",
+               "type": "link_by_uid"
+            },
+            "type": "property",
+            "value": {
+               "nominal": 1.5627,
+               "type": "nominal_real",
+               "units": "gram"
+            }
+         },
+         "type": "property_and_conditions"
+      }
+   ],
+   "tags": [],
+   "template": {
+      "id": "862b710d-f134-442f-8515-da62e296c004",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "material_spec",
+   "uids": {
+      "auto": "780761c3-8382-464d-9885-1f6b5f3cae60"
+   }
+}

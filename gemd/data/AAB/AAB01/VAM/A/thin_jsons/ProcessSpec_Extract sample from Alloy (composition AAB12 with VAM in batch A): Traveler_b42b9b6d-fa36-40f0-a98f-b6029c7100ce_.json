@@ -1,0 +1,17 @@
+{
+   "conditions": [],
+   "file_links": [],
+   "name": "Extract sample from Alloy (composition AAB12 with VAM in batch A): Traveler",
+   "notes": null,
+   "parameters": [],
+   "tags": [],
+   "template": {
+      "id": "af2df7e8-e0db-457c-bd8b-f9f4f22903fa",
+      "scope": "auto",
+      "type": "link_by_uid"
+   },
+   "type": "process_spec",
+   "uids": {
+      "auto": "b42b9b6d-fa36-40f0-a98f-b6029c7100ce"
+   }
+}

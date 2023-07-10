@@ -1,0 +1,10 @@
+{
+   "description": "Composition selected to be fabricated and characterized",
+   "name": "Alloy Composition",
+   "properties": [],
+   "tags": [],
+   "type": "material_template",
+   "uids": {
+      "auto": "508aa1cb-9bac-48b2-a7ed-96d7af30e4a5"
+   }
+}

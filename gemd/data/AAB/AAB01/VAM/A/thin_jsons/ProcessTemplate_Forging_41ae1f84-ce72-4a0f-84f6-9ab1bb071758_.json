@@ -1,0 +1,38 @@
+{
+   "allowed_labels": [],
+   "allowed_names": [],
+   "conditions": [],
+   "description": "Forging\n                ",
+   "name": "Forging",
+   "parameters": [
+      [
+         {
+            "id": "ce899b71-a6ea-4184-9e9a-ba4ada23fd7b",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         null
+      ],
+      [
+         {
+            "id": "c872c350-581b-4b23-9afe-d054f5e4de82",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         null
+      ],
+      [
+         {
+            "id": "71939d66-6b46-44df-a01d-3c2b0849eaae",
+            "scope": "auto",
+            "type": "link_by_uid"
+         },
+         null
+      ]
+   ],
+   "tags": [],
+   "type": "process_template",
+   "uids": {
+      "auto": "41ae1f84-ce72-4a0f-84f6-9ab1bb071758"
+   }
+}

@@ -1,0 +1,26 @@
+strict digraph "" {
+	graph [bb="0,0,972.06,108"];
+	node [label="\N",
+		nodesep=0.4,
+		ranksep=1
+	];
+	"Weighting Ni for composition AAB16 with VAM in batch A,  ca6"	 ["Mass Loss"="Mass Loss, 0.0 gram",
+		"Weighed Mass"="Weighed Mass, 21.3874 gram",
+		color=purple,
+		height=0.5,
+		pos="246.33,90",
+		tags="{0: 'composition_id::AAB16', 1: 'batch::A', 2: 'fabrication_method::VAM'}",
+		width=6.8424];
+	"Ni in composition AAB16 with VAM in batch A,  6f7"	 [color=green,
+		height=0.5,
+		pos="493.33,18",
+		tags="{0: 'composition_id::AAB16', 1: 'batch::A', 2: 'fabrication_method::VAM'}",
+		width=5.6689];
+	"Weighting Ni for composition AAB16 with VAM in batch A,  ca6" -> "Ni in composition AAB16 with VAM in batch A,  6f7"	 [pos="e,433.81,35.35 306.44,72.479 341.96,62.124 387.08,48.97 424.09,38.182"];
+	"Aggregating composition AAB16 with VAM in batch A,  72c"	 [color=red,
+		height=0.5,
+		pos="741.33,90",
+		tags="{0: 'composition_id::AAB16', 1: 'batch::A', 2: 'fabrication_method::VAM'}",
+		width=6.4092];
+	"Aggregating composition AAB16 with VAM in batch A,  72c" -> "Ni in composition AAB16 with VAM in batch A,  6f7"	 [pos="e,552.81,35.269 681.29,72.571 645.5,62.179 599.92,48.945 562.6,38.112"];
+}
